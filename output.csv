@@ -1,0 +1,702 @@
+NUM_STUDENTS,700
+FIRST_NAME,LAST_NAME,HOMEROOM,FIRST_PERIOD,GRADE,SESS_1_ID,SESS_1_ROOM,SESS_2_ID,SESS_2_ROOM,SESS_3_ID,SESS_3_ROOM,SESS_4_ID,SESS_4_ROOM
+MARIAM,Hxxxxx,N/A,RICHARDSON,199979,12,35,TeacherSession35,46,TeacherSession46,26,TeacherSession26,44,TeacherSession44
+DEUCE,Vxxxxxxxxx,N/A,KHLYABICH,166076,12,15,TeacherSession15,16,TeacherSession16,17,TeacherSession17,21,TeacherSession21
+TEYMUR,Axxxxxx,N/A,FINCH,139476,12,15,TeacherSession15,29,TeacherSession29,5,TeacherSession5,9,TeacherSession9
+REESE,Axxxxxxxx,N/A,FINCH,132432,12,1,TeacherSession1,25,TeacherSession25,19,TeacherSession19,22,TeacherSession22
+KESIREDDY,Sxxxxxx,N/A,FINCH,125876,12,13,TeacherSession13,5,TeacherSession5,7,TeacherSession7,3,TeacherSession3
+REBECCA,Lxxxxxx,N/A,NERY,169781,12,28,TeacherSession28,17,TeacherSession17,46,TeacherSession46,45,TeacherSession45
+ADRIAN,Mxxxxxxx,N/A,NERY,197023,12,46,TeacherSession46,37,TeacherSession37,34,TeacherSession34,33,TeacherSession33
+SIERA,Cxxx,N/A,FINCH,155538,12,14,TeacherSession14,15,TeacherSession15,2,TeacherSession2,44,TeacherSession44
+CHRISTIAN,Dx xxxx,N/A,STATON,116949,12,19,TeacherSession19,14,TeacherSession14,6,TeacherSession6,45,TeacherSession45
+COLE,Mxxxxxxx,N/A,NERY,180511,12,19,TeacherSession19,22,TeacherSession22,28,TeacherSession28,45,TeacherSession45
+TANISHA,Bxxxxxxxx,N/A,FINCH,193680,12,37,TeacherSession37,46,TeacherSession46,41,TeacherSession41,17,TeacherSession17
+SYDNEY,Cxxxxx,N/A,STATON,101842,12,33,TeacherSession33,37,TeacherSession37,46,TeacherSession46,42,TeacherSession42
+EMMA,Wxxxxxx,N/A,RAHEB,108886,12,44,TeacherSession44,31,TeacherSession31,22,TeacherSession22,45,TeacherSession45
+ELENA,Wxxxx,N/A,RAHEB,192605,12,44,TeacherSession44,36,TeacherSession36,2,TeacherSession2,46,TeacherSession46
+TRISTAN,Hxxxxxx,N/A,RICHARDSON,178055,12,12,TeacherSession12,5,TeacherSession5,13,TeacherSession13,22,TeacherSession22
+COLIN,Gxxx,N/A,NERY,127182,12,37,TeacherSession37,29,TeacherSession29,9,TeacherSession9,44,TeacherSession44
+JUNE,Gxxxxxxx,N/A,FINCH,163416,12,36,TeacherSession36,42,TeacherSession42,4,TeacherSession4,45,TeacherSession45
+MATTHEW,Txxxxx,N/A,RAHEB,155054,12,15,TeacherSession15,34,TeacherSession34,45,TeacherSession45,46,TeacherSession46
+AARAV,Pxxxxxx,N/A,NERY,131192,12,39,TeacherSession39,43,TeacherSession43,13,TeacherSession13,14,TeacherSession14
+THOMAS,Fxxxxxxxxx,N/A,RICHARDSON,198555,12,1,TeacherSession1,4,TeacherSession4,2,TeacherSession2,7,TeacherSession7
+ORSONSOL,Mxxxxxxxxxx,N/A,NERY,194353,12,10,TeacherSession10,13,TeacherSession13,11,TeacherSession11,9,TeacherSession9
+ARABELLA,Bxxxxxx,N/A,PIETRZAK,144997,12,4,TeacherSession4,14,TeacherSession14,19,TeacherSession19,26,TeacherSession26
+DYLAN,Gxxxxxx,N/A,RICHARDSON,123554,12,13,TeacherSession13,12,TeacherSession12,11,TeacherSession11,10,TeacherSession10
+FINNEGAN,Bxxxxxx,N/A,PIETRZAK,123132,12,36,TeacherSession36,15,TeacherSession15,13,TeacherSession13,6,TeacherSession6
+AUDREY,Sxxxxxxxxx,N/A,PIETRZAK,172574,12,19,TeacherSession19,44,TeacherSession44,37,TeacherSession37,35,TeacherSession35
+JULIANA,Jxxxxxx,N/A,RAMOS,141663,12,14,TeacherSession14,15,TeacherSession15,27,TeacherSession27,26,TeacherSession26
+TRE,Lxxxxxxx,N/A,RAMOS,102860,12,5,TeacherSession5,13,TeacherSession13,12,TeacherSession12,46,TeacherSession46
+JAMES,Lxx,N/A,NERY,164517,12,13,TeacherSession13,9,TeacherSession9,10,TeacherSession10,46,TeacherSession46
+HUNAH,Qxxxxx,N/A,PIETRZAK,108355,12,29,TeacherSession29,35,TeacherSession35,37,TeacherSession37,46,TeacherSession46
+JONATHAN,Sxxxxxx,N/A,RAHEB,159967,12,16,TeacherSession16,7,TeacherSession7,5,TeacherSession5,27,TeacherSession27
+SUHINA,Mxxxx,N/A,RAMOS,139190,12,46,TeacherSession46,2,TeacherSession2,37,TeacherSession37,19,TeacherSession19
+NICHOLAS,Mxxxx,N/A,RAMOS,117600,12,5,TeacherSession5,10,TeacherSession10,8,TeacherSession8,9,TeacherSession9
+ALLISON,Gxxxxxx,N/A,RAMOS,131053,12,31,TeacherSession31,44,TeacherSession44,34,TeacherSession34,22,TeacherSession22
+ANA SOPHIA,Bxxxxxxxxx xxxxx,N/A,FINCH,190254,12,5,TeacherSession5,2,TeacherSession2,36,TeacherSession36,45,TeacherSession45
+YASSIR,Hxxxxxx,N/A,RICHARDSON,146706,12,19,TeacherSession19,29,TeacherSession29,37,TeacherSession37,41,TeacherSession41
+KATHEIRNE,Axxxxxxx,N/A,RICHARDSON,160166,12,18,TeacherSession18,15,TeacherSession15,14,TeacherSession14,23,TeacherSession23
+JALAYA,Kxxx,N/A,RICHARDSON,110918,12,44,TeacherSession44,34,TeacherSession34,41,TeacherSession41,40,TeacherSession40
+SCARLETT,Exxxxxxxxxxx,N/A,FINCH,134353,12,42,TeacherSession42,19,TeacherSession19,45,TeacherSession45,2,TeacherSession2
+YOGI,Pxxxx,N/A,NERY,133700,12,28,TeacherSession28,30,TeacherSession30,33,TeacherSession33,32,TeacherSession32
+ABIGAIL,Wxxx,N/A,GREGOR,196885,12,37,TeacherSession37,29,TeacherSession29,28,TeacherSession28,32,TeacherSession32
+EDREES,Sxxxxx,N/A,PIETRZAK,156233,12,37,TeacherSession37,30,TeacherSession30,41,TeacherSession41,46,TeacherSession46
+EVELYN,Lxxxx,N/A,GREGOR,139122,12,46,TeacherSession46,5,TeacherSession5,38,TeacherSession38,40,TeacherSession40
+TY,Vxxxxxxx,N/A,RAHEB,138124,12,27,TeacherSession27,20,TeacherSession20,24,TeacherSession24,8,TeacherSession8
+ALEC,Lxxxxx,N/A,RICHARDSON,184046,12,39,TeacherSession39,40,TeacherSession40,38,TeacherSession38,22,TeacherSession22
+BERLIN,Bxxxxxxxxxx,N/A,PIETRZAK,154319,12,42,TeacherSession42,19,TeacherSession19,16,TeacherSession16,43,TeacherSession43
+AUBREY,Rxxxxx,N/A,GREGOR,164172,12,44,TeacherSession44,9,TeacherSession9,6,TeacherSession6,42,TeacherSession42
+CARTER,Nxxxxx,N/A,RAMOS,154084,12,6,TeacherSession6,7,TeacherSession7,41,TeacherSession41,37,TeacherSession37
+ANASTASIA,Wxxxxx,N/A,GREGOR,134639,12,44,TeacherSession44,9,TeacherSession9,6,TeacherSession6,42,TeacherSession42
+ALLEN,Nxxx,N/A,PIETRZAK,189308,12,9,TeacherSession9,5,TeacherSession5,7,TeacherSession7,10,TeacherSession10
+SHREEJI,Pxxxxxx,N/A,GREGOR,174804,12,19,TeacherSession19,3,TeacherSession3,16,TeacherSession16,17,TeacherSession17
+KRISH,Pxxxx,N/A,GREGOR,136406,12,19,TeacherSession19,3,TeacherSession3,16,TeacherSession16,17,TeacherSession17
+JUSTIN,Txxxxx,N/A,GREGOR,197878,12,9,TeacherSession9,5,TeacherSession5,19,TeacherSession19,10,TeacherSession10
+TREY,Hxxxxx,N/A,RICHARDSON,150988,12,4,TeacherSession4,19,TeacherSession19,13,TeacherSession13,42,TeacherSession42
+JOSHUA,Vxxxxxxxxxxx,N/A,GREGOR,167734,12,18,TeacherSession18,36,TeacherSession36,4,TeacherSession4,27,TeacherSession27
+DEVIN,Hxxxx,N/A,RICHARDSON,116245,12,16,TeacherSession16,15,TeacherSession15,42,TeacherSession42,5,TeacherSession5
+CAMERON,Cxxxxxx,N/A,STATON,100208,12,38,TeacherSession38,39,TeacherSession39,40,TeacherSession40,35,TeacherSession35
+MASON,Txxxx,N/A,GREGOR,117440,12,16,TeacherSession16,3,TeacherSession3,1,TeacherSession1,18,TeacherSession18
+AVERY,Axxxxxxxx,N/A,PIETRZAK,159613,12,43,TeacherSession43,42,TeacherSession42,20,TeacherSession20,26,TeacherSession26
+RANIA,Sxxxx,N/A,STATON,106888,12,7,TeacherSession7,5,TeacherSession5,10,TeacherSession10,19,TeacherSession19
+KATHERINE,Sxxxxxx,N/A,STATON,120243,12,46,TeacherSession46,37,TeacherSession37,28,TeacherSession28,30,TeacherSession30
+CHRIS,Rxxxxxxx,N/A,STATON,197462,12,10,TeacherSession10,9,TeacherSession9,13,TeacherSession13,11,TeacherSession11
+TRENTON,Txxxxx,N/A,RAHEB,194117,12,34,TeacherSession34,19,TeacherSession19,23,TeacherSession23,22,TeacherSession22
+CAMDEN,Gxxxxxx,N/A,RICHARDSON,136333,12,22,TeacherSession22,19,TeacherSession19,43,TeacherSession43,34,TeacherSession34
+ALEX,Pxxxxx,N/A,STATON,183402,12,13,TeacherSession13,11,TeacherSession11,7,TeacherSession7,9,TeacherSession9
+SASHA,Gxxxxx,N/A,RICHARDSON,176973,12,46,TeacherSession46,37,TeacherSession37,28,TeacherSession28,22,TeacherSession22
+MYKAELA,Bxxxx,N/A,PIETRZAK,121501,12,34,TeacherSession34,19,TeacherSession19,28,TeacherSession28,31,TeacherSession31
+ADDYSON,Lxxxxxxx,N/A,RAMOS,153733,12,2,TeacherSession2,42,TeacherSession42,1,TeacherSession1,14,TeacherSession14
+SYDNEY,Txxx,N/A,RAHEB,123420,12,2,TeacherSession2,34,TeacherSession34,1,TeacherSession1,19,TeacherSession19
+KELLYN,Hxxxxxxx,N/A,A GLEZEN,128461,11,1,TeacherSession1,10,TeacherSession10,41,TeacherSession41,9,TeacherSession9
+PENELOPE,Mxxxxxx,N/A,B GLEZEN,185292,11,37,TeacherSession37,28,TeacherSession28,46,TeacherSession46,45,TeacherSession45
+PEYTON,Hxxxx,N/A,A GLEZEN,146919,11,28,TeacherSession28,35,TeacherSession35,37,TeacherSession37,46,TeacherSession46
+BLAKE,Jxxxxxx,N/A,A GLEZEN,199335,11,18,TeacherSession18,16,TeacherSession16,5,TeacherSession5,7,TeacherSession7
+KEIRA,Lxx,N/A,A GLEZEN,130339,11,28,TeacherSession28,43,TeacherSession43,35,TeacherSession35,37,TeacherSession37
+ZAINAB,Hxxxxxx,N/A,A GLEZEN,111410,11,10,TeacherSession10,8,TeacherSession8,6,TeacherSession6,4,TeacherSession4
+TYLER,Lxxx,N/A,A GLEZEN,162896,11,19,TeacherSession19,44,TeacherSession44,11,TeacherSession11,27,TeacherSession27
+SELA,Hxxxxx,N/A,A GLEZEN,168257,11,37,TeacherSession37,33,TeacherSession33,46,TeacherSession46,2,TeacherSession2
+HANNAH,Lxxxxxxx,N/A,ORTON,123289,11,30,TeacherSession30,19,TeacherSession19,28,TeacherSession28,35,TeacherSession35
+HANNAH,Jxxxx,N/A,A GLEZEN,196067,11,18,TeacherSession18,19,TeacherSession19,4,TeacherSession4,15,TeacherSession15
+GABBY,Mxxxxx,N/A,A GLEZEN,167991,11,19,TeacherSession19,28,TeacherSession28,33,TeacherSession33,34,TeacherSession34
+AVA,Hxxxxxxx,N/A,A GLEZEN,184681,11,19,TeacherSession19,35,TeacherSession35,46,TeacherSession46,28,TeacherSession28
+HLLA,Wxxxxx,N/A,PITTENGER,168426,11,28,TeacherSession28,13,TeacherSession13,43,TeacherSession43,45,TeacherSession45
+JAELYNN,Lxxxxxxx,N/A,A GLEZEN,168685,11,19,TeacherSession19,22,TeacherSession22,29,TeacherSession29,44,TeacherSession44
+EMILY,Mxxxxxxx,N/A,A GLEZEN,196867,11,41,TeacherSession41,37,TeacherSession37,32,TeacherSession32,25,TeacherSession25
+ANNIE,Nxxxxx,N/A,ORTON,161257,11,35,TeacherSession35,29,TeacherSession29,15,TeacherSession15,19,TeacherSession19
+LUKE,Mxxxxx,N/A,ORTON,191836,11,39,TeacherSession39,1,TeacherSession1,23,TeacherSession23,21,TeacherSession21
+LEAH,Nxxxxx,N/A,ORTON,120828,11,18,TeacherSession18,43,TeacherSession43,44,TeacherSession44,35,TeacherSession35
+AMELIA,Gxxxxxxxx,N/A,PITTENGER,155857,11,1,TeacherSession1,2,TeacherSession2,14,TeacherSession14,15,TeacherSession15
+ETHAN,Mxxxxx,N/A,ORTON,165895,11,1,TeacherSession1,2,TeacherSession2,18,TeacherSession18,19,TeacherSession19
+GABRIEL,Jxxxxxx,N/A,PITTENGER,151059,11,11,TeacherSession11,6,TeacherSession6,15,TeacherSession15,12,TeacherSession12
+CLARA,Kxxx,N/A,B GLEZEN,137869,11,30,TeacherSession30,28,TeacherSession28,35,TeacherSession35,37,TeacherSession37
+CAELAN,Mxxxxxxxxx,N/A,ORTON,110752,11,4,TeacherSession4,1,TeacherSession1,2,TeacherSession2,42,TeacherSession42
+DANIELLE,Sxxxxxxxxx,N/A,ORTON,153237,11,37,TeacherSession37,43,TeacherSession43,23,TeacherSession23,28,TeacherSession28
+RAEVIN,Mxxxxxx,N/A,ORTON,108551,11,5,TeacherSession5,6,TeacherSession6,19,TeacherSession19,46,TeacherSession46
+JOSH,Mxxx,N/A,ORTON,123902,11,40,TeacherSession40,38,TeacherSession38,16,TeacherSession16,34,TeacherSession34
+BROOKE,Hxxxxxxx,N/A,JERDON,114121,11,19,TeacherSession19,23,TeacherSession23,43,TeacherSession43,28,TeacherSession28
+SAMANTHA,Sxxxxxxxx,N/A,PITTENGER,165844,11,35,TeacherSession35,46,TeacherSession46,45,TeacherSession45,19,TeacherSession19
+SOPHIA,Fxxxxx,N/A,B GLEZEN,176325,11,37,TeacherSession37,46,TeacherSession46,29,TeacherSession29,17,TeacherSession17
+ZIVA,Lxxxx,N/A,ORTON,113176,11,19,TeacherSession19,4,TeacherSession4,22,TeacherSession22,38,TeacherSession38
+WILLIAM,Sxxxxxx,N/A,JERDON,151310,11,10,TeacherSession10,9,TeacherSession9,8,TeacherSession8,40,TeacherSession40
+GRACE,Mxxxxx,N/A,ORTON,148965,11,28,TeacherSession28,19,TeacherSession19,22,TeacherSession22,17,TeacherSession17
+REESE,Cxxxxxxx,N/A,SNIVELY,175328,11,35,TeacherSession35,43,TeacherSession43,19,TeacherSession19,22,TeacherSession22
+ALICE,Lxx,N/A,B GLEZEN,177875,11,46,TeacherSession46,37,TeacherSession37,35,TeacherSession35,34,TeacherSession34
+TALA,Rxxxx,N/A,JERDON,187089,11,22,TeacherSession22,43,TeacherSession43,19,TeacherSession19,23,TeacherSession23
+MAX,Rxxxxx,N/A,JERDON,149022,11,42,TeacherSession42,34,TeacherSession34,19,TeacherSession19,2,TeacherSession2
+ANGELINA,Txxxxxx,N/A,JERDON,149660,11,42,TeacherSession42,34,TeacherSession34,19,TeacherSession19,2,TeacherSession2
+TAYLOR,Mxxxxxxx,N/A,ORTON,131288,11,2,TeacherSession2,19,TeacherSession19,16,TeacherSession16,17,TeacherSession17
+WILLIAM,Jxxxxxx,N/A,B GLEZEN,198071,11,3,TeacherSession3,29,TeacherSession29,23,TeacherSession23,21,TeacherSession21
+LINDSEY,Hxxxxxxx,N/A,A GLEZEN,122861,11,29,TeacherSession29,32,TeacherSession32,28,TeacherSession28,30,TeacherSession30
+DIEGO,Pxxxxx,N/A,JERDON,157780,11,34,TeacherSession34,33,TeacherSession33,5,TeacherSession5,12,TeacherSession12
+TRISTAN,Mxxxxxxxxx,N/A,ORTON,179383,11,21,TeacherSession21,19,TeacherSession19,24,TeacherSession24,23,TeacherSession23
+JACKSON,Txxxxxx,N/A,JERDON,149154,11,34,TeacherSession34,10,TeacherSession10,5,TeacherSession5,12,TeacherSession12
+JACKSON,Bxxxx,N/A,PITTENGER,120425,11,45,TeacherSession45,40,TeacherSession40,38,TeacherSession38,21,TeacherSession21
+CLAIRE,Cxxx,N/A,SNIVELY,109500,11,37,TeacherSession37,46,TeacherSession46,32,TeacherSession32,41,TeacherSession41
+AARON,Sxxx,N/A,JERDON,156456,11,12,TeacherSession12,31,TeacherSession31,19,TeacherSession19,10,TeacherSession10
+ZACHARY,Wxxxx,N/A,PITTENGER,118986,11,12,TeacherSession12,13,TeacherSession13,8,TeacherSession8,7,TeacherSession7
+SHUHUAI,Xx,N/A,PITTENGER,180373,11,14,TeacherSession14,16,TeacherSession16,39,TeacherSession39,43,TeacherSession43
+PARKER,Wxxxx,N/A,PITTENGER,192243,11,12,TeacherSession12,13,TeacherSession13,7,TeacherSession7,11,TeacherSession11
+ALEXANDER,Vxxxxxxxx,N/A,JERDON,112726,11,15,TeacherSession15,14,TeacherSession14,23,TeacherSession23,28,TeacherSession28
+LILY,Rxxxxxxxx,N/A,JERDON,125050,11,31,TeacherSession31,34,TeacherSession34,33,TeacherSession33,2,TeacherSession2
+ERIC,Zxxxx,N/A,PITTENGER,156228,11,13,TeacherSession13,12,TeacherSession12,45,TeacherSession45,4,TeacherSession4
+LOLA,Lxxx xx xxxxxxx xx xxxxxxx,N/A,B GLEZEN,130408,11,42,TeacherSession42,2,TeacherSession2,44,TeacherSession44,28,TeacherSession28
+KING JULIAN,Lxxxx xx xxxxxxxx,N/A,B GLEZEN,117413,11,3,TeacherSession3,2,TeacherSession2,42,TeacherSession42,36,TeacherSession36
+ABIGAIL,Fxxxx,N/A,B GLEZEN,161955,11,42,TeacherSession42,19,TeacherSession19,41,TeacherSession41,2,TeacherSession2
+NIKHIL,Pxxxx,N/A,JERDON,117056,11,11,TeacherSession11,13,TeacherSession13,12,TeacherSession12,41,TeacherSession41
+TADI,Zxxxxxx,N/A,PITTENGER,134381,11,41,TeacherSession41,19,TeacherSession19,37,TeacherSession37,44,TeacherSession44
+AMANDA,Mxxxxx,N/A,PITTENGER,132147,11,8,TeacherSession8,10,TeacherSession10,39,TeacherSession39,22,TeacherSession22
+CORA,Pxxxxxx,N/A,G BRAMLETT,114715,11,41,TeacherSession41,39,TeacherSession39,10,TeacherSession10,9,TeacherSession9
+JEREMIAH,Mxxxxx,N/A,ORTON,159578,11,21,TeacherSession21,22,TeacherSession22,24,TeacherSession24,19,TeacherSession19
+AVERY,Mxxx,N/A,G BRAMLETT,196437,11,19,TeacherSession19,29,TeacherSession29,17,TeacherSession17,37,TeacherSession37
+WILLIAM,Cxxxx,N/A,B GLEZEN,183905,11,10,TeacherSession10,9,TeacherSession9,21,TeacherSession21,24,TeacherSession24
+EVANGELINE,Sxxxxx,N/A,GEOFFREY,188599,11,34,TeacherSession34,37,TeacherSession37,46,TeacherSession46,29,TeacherSession29
+EHAB,Exxxxxxx,N/A,B GLEZEN,187596,11,29,TeacherSession29,37,TeacherSession37,13,TeacherSession13,19,TeacherSession19
+FRANCIS,Lxxxxxxxxxx,N/A,B GLEZEN,140312,11,34,TeacherSession34,21,TeacherSession21,1,TeacherSession1,15,TeacherSession15
+NEJHAE,Cxxxx,N/A,B GLEZEN,193759,11,42,TeacherSession42,38,TeacherSession38,21,TeacherSession21,17,TeacherSession17
+HRYDAY,Pxxxx,N/A,JERDON,104742,11,10,TeacherSession10,1,TeacherSession1,16,TeacherSession16,15,TeacherSession15
+ANDY,Gxxx,N/A,PITTENGER,163177,11,41,TeacherSession41,10,TeacherSession10,37,TeacherSession37,8,TeacherSession8
+MANAN,Jxxx,N/A,PITTENGER,139290,11,41,TeacherSession41,10,TeacherSession10,37,TeacherSession37,8,TeacherSession8
+CASSIDY,Cxxxx,N/A,SNIVELY,173064,11,1,TeacherSession1,41,TeacherSession41,2,TeacherSession2,4,TeacherSession4
+NATALIA,Mxxxxxx,N/A,G BRAMLETT,161428,11,41,TeacherSession41,33,TeacherSession33,43,TeacherSession43,19,TeacherSession19
+JACOB,Fxxx,N/A,ORTON,188767,11,1,TeacherSession1,22,TeacherSession22,19,TeacherSession19,27,TeacherSession27
+CHRISTIAN,Txxxx,N/A,PITTENGER,154109,11,43,TeacherSession43,21,TeacherSession21,40,TeacherSession40,44,TeacherSession44
+ALINA,Sxxxxxx,N/A,JERDON,163520,11,46,TeacherSession46,37,TeacherSession37,45,TeacherSession45,21,TeacherSession21
+CAELEN,Gxxxxx,N/A,B GLEZEN,122420,11,27,TeacherSession27,18,TeacherSession18,14,TeacherSession14,17,TeacherSession17
+NICHOLAS,Bxxx,N/A,G BRAMLETT,135730,11,9,TeacherSession9,10,TeacherSession10,38,TeacherSession38,40,TeacherSession40
+AASHISH,Axxxxxxx,N/A,SNIVELY,182757,11,9,TeacherSession9,10,TeacherSession10,38,TeacherSession38,5,TeacherSession5
+SOLARIS,Cxxxx,N/A,SNIVELY,100753,11,13,TeacherSession13,10,TeacherSession10,5,TeacherSession5,18,TeacherSession18
+PEYTON,Sxxxxxx,N/A,G BRAMLETT,176191,11,18,TeacherSession18,42,TeacherSession42,19,TeacherSession19,41,TeacherSession41
+ANDREW,Fxxxxxxx,N/A,SNIVELY,108057,11,39,TeacherSession39,10,TeacherSession10,13,TeacherSession13,11,TeacherSession11
+JAYDEN,Cxxxxxx,N/A,SNIVELY,112323,11,38,TeacherSession38,42,TeacherSession42,23,TeacherSession23,22,TeacherSession22
+CAMRYN,Sxxxxxxx,N/A,G BRAMLETT,167996,11,1,TeacherSession1,22,TeacherSession22,6,TeacherSession6,42,TeacherSession42
+MICHAEL,Cxxxxxx,N/A,SNIVELY,188418,11,38,TeacherSession38,42,TeacherSession42,23,TeacherSession23,22,TeacherSession22
+ABBEY,Bxxxxxx,N/A,SNIVELY,128149,11,46,TeacherSession46,19,TeacherSession19,28,TeacherSession28,1,TeacherSession1
+NADINE,Sxxxxx,N/A,G BRAMLETT,195155,11,33,TeacherSession33,29,TeacherSession29,15,TeacherSession15,44,TeacherSession44
+TRAVIS,Dxxxx,N/A,SNIVELY,168523,11,38,TeacherSession38,13,TeacherSession13,23,TeacherSession23,8,TeacherSession8
+THOMAS,Bxxxx,N/A,SNIVELY,192088,11,9,TeacherSession9,10,TeacherSession10,41,TeacherSession41,3,TeacherSession3
+JACK,Cxxxxx,N/A,SNIVELY,167925,11,38,TeacherSession38,42,TeacherSession42,23,TeacherSession23,22,TeacherSession22
+ARYAN,Axxxx,N/A,DASILVA,184785,11,11,TeacherSession11,41,TeacherSession41,8,TeacherSession8,7,TeacherSession7
+CHRISTOPHER,Exxxxxx,N/A,DASILVA,102092,11,41,TeacherSession41,42,TeacherSession42,9,TeacherSession9,24,TeacherSession24
+BOSTON,Bxxxxxx,N/A,DASILVA,143191,11,4,TeacherSession4,33,TeacherSession33,19,TeacherSession19,37,TeacherSession37
+JACK,Gxxxxxxx,N/A,DASILVA,128052,11,29,TeacherSession29,18,TeacherSession18,41,TeacherSession41,34,TeacherSession34
+SKYLER,Cxxxx,N/A,SNIVELY,194328,11,37,TeacherSession37,35,TeacherSession35,34,TeacherSession34,33,TeacherSession33
+PLEASANT,Lxxxx,N/A,B GLEZEN,173645,11,19,TeacherSession19,27,TeacherSession27,38,TeacherSession38,10,TeacherSession10
+AMY,Bxxxxxxxxx,N/A,DASILVA,123855,11,41,TeacherSession41,12,TeacherSession12,35,TeacherSession35,19,TeacherSession19
+MAXWELL,Fxxxx,N/A,DASILVA,187971,11,9,TeacherSession9,8,TeacherSession8,10,TeacherSession10,11,TeacherSession11
+BENJAMIN,Pxxxxxxxx,N/A,G BRAMLETT,114724,11,30,TeacherSession30,37,TeacherSession37,36,TeacherSession36,44,TeacherSession44
+ROBERT,Sxxxxxxx,N/A,G BRAMLETT,196655,11,30,TeacherSession30,37,TeacherSession37,36,TeacherSession36,35,TeacherSession35
+ADAM,Exxxxxxxx,N/A,G BRAMLETT,147611,11,4,TeacherSession4,12,TeacherSession12,35,TeacherSession35,36,TeacherSession36
+ALEXANDRA,Bxxxx,N/A,SNIVELY,136517,11,41,TeacherSession41,32,TeacherSession32,30,TeacherSession30,28,TeacherSession28
+CARTER,Bxxxxxx,N/A,DASILVA,156112,11,8,TeacherSession8,13,TeacherSession13,17,TeacherSession17,19,TeacherSession19
+RYLEIGH,Dxxxxxx,N/A,DASILVA,131358,11,1,TeacherSession1,23,TeacherSession23,34,TeacherSession34,19,TeacherSession19
+JUDE,Rxxxxxxxxx,N/A,G BRAMLETT,180684,11,19,TeacherSession19,2,TeacherSession2,16,TeacherSession16,44,TeacherSession44
+SOLOMON,Hxx,N/A,DASILVA,179819,11,10,TeacherSession10,9,TeacherSession9,1,TeacherSession1,11,TeacherSession11
+MEGHANA,Gxxxxx,N/A,G BRAMLETT,186681,11,10,TeacherSession10,38,TeacherSession38,40,TeacherSession40,11,TeacherSession11
+AVA,Fxxxxx,N/A,DASILVA,185020,11,41,TeacherSession41,42,TeacherSession42,43,TeacherSession43,31,TeacherSession31
+EMMA,Gxxxxxxx xxxxxx,N/A,N BRAMLETT,130395,10,37,TeacherSession37,46,TeacherSession46,45,TeacherSession45,34,TeacherSession34
+ELIZA,Sxxxxx,N/A,ROBBINS,179983,10,46,TeacherSession46,28,TeacherSession28,35,TeacherSession35,5,TeacherSession5
+CASEY,Txxxxx,N/A,ENGLER,147130,10,4,TeacherSession4,13,TeacherSession13,19,TeacherSession19,41,TeacherSession41
+BROOKLYN,Lxx,N/A,KHLYABICH,198465,10,42,TeacherSession42,28,TeacherSession28,30,TeacherSession30,35,TeacherSession35
+KYRA,Mxxxxx,N/A,KHLYABICH,162541,10,6,TeacherSession6,22,TeacherSession22,2,TeacherSession2,7,TeacherSession7
+MASSIMO,Rxxxxxxxx,N/A,ROBBINS,193633,10,4,TeacherSession4,8,TeacherSession8,11,TeacherSession11,14,TeacherSession14
+MEGHANA,Mxxxxxxxxx,N/A,KHLYABICH,118613,10,14,TeacherSession14,13,TeacherSession13,17,TeacherSession17,36,TeacherSession36
+GENEVIEVE,Vxxxxxx,N/A,RADD,155163,10,33,TeacherSession33,37,TeacherSession37,34,TeacherSession34,45,TeacherSession45
+JOSH,Uxxxxxxx,N/A,RADD,133298,10,19,TeacherSession19,6,TeacherSession6,10,TeacherSession10,13,TeacherSession13
+JENNA,Nxxxxx,N/A,PAZDERAK,175104,10,19,TeacherSession19,18,TeacherSession18,29,TeacherSession29,31,TeacherSession31
+SAMIYA,Nxxxx,N/A,PAZDERAK,168381,10,28,TeacherSession28,32,TeacherSession32,45,TeacherSession45,35,TeacherSession35
+NATHANIEL,Bxxxxx,N/A,PAZDERAK,144640,10,1,TeacherSession1,2,TeacherSession2,36,TeacherSession36,37,TeacherSession37
+SOFIA,Rxxx,N/A,ROBBINS,145843,10,44,TeacherSession44,2,TeacherSession2,4,TeacherSession4,14,TeacherSession14
+MAXIMUS,Bxxxxx,N/A,REGAN,109475,10,13,TeacherSession13,15,TeacherSession15,19,TeacherSession19,21,TeacherSession21
+ESHAN,Vxxxxx,N/A,RADD,161177,10,12,TeacherSession12,7,TeacherSession7,10,TeacherSession10,19,TeacherSession19
+EVAN,Zxxxx,N/A,ENGLER,123543,10,3,TeacherSession3,5,TeacherSession5,1,TeacherSession1,13,TeacherSession13
+SHARAYAH,Cxxxxxx,N/A,REGAN,177331,10,35,TeacherSession35,46,TeacherSession46,30,TeacherSession30,19,TeacherSession19
+DEREK,Cxxxxxx,N/A,KHLYABICH,178742,10,10,TeacherSession10,8,TeacherSession8,39,TeacherSession39,9,TeacherSession9
+ANITA,Mxxxxxxx,N/A,KHLYABICH,102450,10,37,TeacherSession37,32,TeacherSession32,19,TeacherSession19,33,TeacherSession33
+KIRIN,Rxxxxx,N/A,PAZDERAK,190028,10,1,TeacherSession1,2,TeacherSession2,11,TeacherSession11,18,TeacherSession18
+LAINEY,Lxxx,N/A,KHLYABICH,153787,10,22,TeacherSession22,23,TeacherSession23,21,TeacherSession21,42,TeacherSession42
+IVY,Mxxxxxxx,N/A,PAZDERAK,183812,10,35,TeacherSession35,34,TeacherSession34,32,TeacherSession32,4,TeacherSession4
+RICHIE,Vxx xxxxxxxxx,N/A,ENGLER,124450,10,1,TeacherSession1,8,TeacherSession8,5,TeacherSession5,9,TeacherSession9
+ERNEST,Sxxxxx,N/A,ROBBINS,163152,10,25,TeacherSession25,10,TeacherSession10,14,TeacherSession14,20,TeacherSession20
+ALMA,Wxxx,N/A,RADD,109229,10,19,TeacherSession19,18,TeacherSession18,22,TeacherSession22,28,TeacherSession28
+ANNE,Bxxxxxx,N/A,REGAN,115168,10,2,TeacherSession2,32,TeacherSession32,41,TeacherSession41,39,TeacherSession39
+LANDON,Pxxxxxxx,N/A,PAZDERAK,159972,10,10,TeacherSession10,6,TeacherSession6,8,TeacherSession8,13,TeacherSession13
+REDDIN,Mxxxxx,N/A,PAZDERAK,149969,10,13,TeacherSession13,12,TeacherSession12,11,TeacherSession11,26,TeacherSession26
+HARPER,Mxxxxxxx,N/A,MILLBAND,132219,10,17,TeacherSession17,12,TeacherSession12,7,TeacherSession7,2,TeacherSession2
+BEN,Rxxxxxx,N/A,PAZDERAK,148345,10,28,TeacherSession28,1,TeacherSession1,21,TeacherSession21,19,TeacherSession19
+AVA,Fxxxxxxxx xxxxx,N/A,REGAN,178964,10,6,TeacherSession6,12,TeacherSession12,15,TeacherSession15,17,TeacherSession17
+LUNA,Sxxxxxx,N/A,ENGLER,179145,10,34,TeacherSession34,19,TeacherSession19,17,TeacherSession17,45,TeacherSession45
+CARINA,Wxxxxxx,N/A,ENGLER,158559,10,34,TeacherSession34,19,TeacherSession19,28,TeacherSession28,17,TeacherSession17
+ADELIA,Txxxxx,N/A,ENGLER,156410,10,19,TeacherSession19,4,TeacherSession4,44,TeacherSession44,2,TeacherSession2
+SHAE,Mxxxxx,N/A,KHLYABICH,130017,10,43,TeacherSession43,19,TeacherSession19,29,TeacherSession29,42,TeacherSession42
+LOGAN,Wxxxx,N/A,ENGLER,187473,10,19,TeacherSession19,21,TeacherSession21,22,TeacherSession22,4,TeacherSession4
+GABRIEL,Wxxx,N/A,ENGLER,189268,10,2,TeacherSession2,1,TeacherSession1,19,TeacherSession19,29,TeacherSession29
+DAVID,Axxxxx,N/A,RADD,107326,10,10,TeacherSession10,17,TeacherSession17,14,TeacherSession14,15,TeacherSession15
+NATHAN,Kxxxxxxxxxxxx,N/A,KHLYABICH,138752,10,15,TeacherSession15,45,TeacherSession45,11,TeacherSession11,14,TeacherSession14
+IAN,Sxxxxx,N/A,ENGLER,127946,10,18,TeacherSession18,27,TeacherSession27,19,TeacherSession19,21,TeacherSession21
+SAMANTHA,Kxxxxx,N/A,KHLYABICH,113638,10,10,TeacherSession10,4,TeacherSession4,9,TeacherSession9,18,TeacherSession18
+ZAYDEN,Mxxxxx,N/A,KHLYABICH,102228,10,19,TeacherSession19,21,TeacherSession21,22,TeacherSession22,17,TeacherSession17
+CHANCE,Wxxxxxxxxx,N/A,ENGLER,141347,10,21,TeacherSession21,23,TeacherSession23,19,TeacherSession19,24,TeacherSession24
+ZAHAR,Zxxxxx,N/A,RADD,142416,10,12,TeacherSession12,13,TeacherSession13,32,TeacherSession32,8,TeacherSession8
+DINO,Vxxxxxxxxx,N/A,KHLYABICH,182700,10,12,TeacherSession12,13,TeacherSession13,19,TeacherSession19,11,TeacherSession11
+JULIAN,Wxxxxx,N/A,ENGLER,104949,10,29,TeacherSession29,31,TeacherSession31,35,TeacherSession35,46,TeacherSession46
+PRESLEY,Hxxxx,N/A,KELLY,157980,10,35,TeacherSession35,19,TeacherSession19,29,TeacherSession29,1,TeacherSession1
+ARTEMIA,Txxxxxxxxxxxxx,N/A,RADD,126099,10,33,TeacherSession33,37,TeacherSession37,46,TeacherSession46,1,TeacherSession1
+CHARLES,Lxxxxxx,N/A,KELLY,159995,10,1,TeacherSession1,4,TeacherSession4,8,TeacherSession8,9,TeacherSession9
+PHANEESH,Lxxxxx,N/A,KHLYABICH,161945,10,5,TeacherSession5,46,TeacherSession46,19,TeacherSession19,12,TeacherSession12
+MADDON,Vxxxxxxxxx,N/A,ROSS,176092,10,19,TeacherSession19,23,TeacherSession23,28,TeacherSession28,34,TeacherSession34
+DAMIAN,Mxxxxx,N/A,KELLY,167319,10,9,TeacherSession9,10,TeacherSession10,8,TeacherSession8,12,TeacherSession12
+LUKE,Cxxxxxx,N/A,ROSS,112518,10,10,TeacherSession10,23,TeacherSession23,19,TeacherSession19,42,TeacherSession42
+LAUREN,Bxxxxx,N/A,ROSS,152336,10,34,TeacherSession34,19,TeacherSession19,2,TeacherSession2,43,TeacherSession43
+ISABELLA,Oxxxxxxx xxxxxx,N/A,ROBBINS,103517,10,19,TeacherSession19,45,TeacherSession45,44,TeacherSession44,18,TeacherSession18
+LANDEN,Axxxxxxxx,N/A,ROSS,156134,10,10,TeacherSession10,12,TeacherSession12,11,TeacherSession11,13,TeacherSession13
+AIDEN,Bxxxxx,N/A,ROSS,140384,10,16,TeacherSession16,15,TeacherSession15,3,TeacherSession3,45,TeacherSession45
+SOFIA,Mxxxxxxx,N/A,PAZDERAK,105919,10,10,TeacherSession10,1,TeacherSession1,41,TeacherSession41,39,TeacherSession39
+EZRA,Yxxx,N/A,RADD,142817,10,23,TeacherSession23,29,TeacherSession29,46,TeacherSession46,22,TeacherSession22
+COLIN,Wxxxxxxxxxx,N/A,RADD,175961,10,8,TeacherSession8,7,TeacherSession7,10,TeacherSession10,12,TeacherSession12
+MCOWEN,Mxxxxxx,N/A,KHLYABICH,195029,10,45,TeacherSession45,8,TeacherSession8,1,TeacherSession1,23,TeacherSession23
+DANIEL SEE,Sxx,N/A,RADD,199497,10,33,TeacherSession33,37,TeacherSession37,32,TeacherSession32,42,TeacherSession42
+YOUSUF,Bxxxxx,N/A,ROSS,155494,10,17,TeacherSession17,15,TeacherSession15,13,TeacherSession13,8,TeacherSession8
+MADDOX,Cxxxxx,N/A,ROSS,110386,10,28,TeacherSession28,1,TeacherSession1,2,TeacherSession2,45,TeacherSession45
+KAI,Cxxx,N/A,ROSS,177193,10,9,TeacherSession9,8,TeacherSession8,10,TeacherSession10,13,TeacherSession13
+AUGUST,Txxxx,N/A,RADD,101825,10,35,TeacherSession35,29,TeacherSession29,19,TeacherSession19,4,TeacherSession4
+JASPER,Bxxxxxxx,N/A,REGAN,169215,10,41,TeacherSession41,13,TeacherSession13,3,TeacherSession3,5,TeacherSession5
+ADRIAH,Mxxxxxx,N/A,PAZDERAK,189074,10,2,TeacherSession2,1,TeacherSession1,46,TeacherSession46,29,TeacherSession29
+BARRY,Wxxxxx,N/A,ENGLER,157460,10,45,TeacherSession45,22,TeacherSession22,46,TeacherSession46,41,TeacherSession41
+NASH,Fxxxxxx,N/A,REGAN,176257,10,19,TeacherSession19,23,TeacherSession23,28,TeacherSession28,34,TeacherSession34
+MASON,Hxxxx,N/A,REGAN,146510,10,19,TeacherSession19,23,TeacherSession23,28,TeacherSession28,34,TeacherSession34
+MADISON,Sxx,N/A,ENGLER,120694,10,37,TeacherSession37,44,TeacherSession44,15,TeacherSession15,19,TeacherSession19
+ELEANOR,Axxxxxxx,N/A,ROSS,125903,10,37,TeacherSession37,35,TeacherSession35,46,TeacherSession46,32,TeacherSession32
+ROSE,Bxxxx,N/A,ROSS,172765,10,40,TeacherSession40,38,TeacherSession38,19,TeacherSession19,5,TeacherSession5
+IAN,Bxxxxx xxxxxxx,N/A,REGAN,140398,10,5,TeacherSession5,13,TeacherSession13,15,TeacherSession15,16,TeacherSession16
+JOSHUA,Hxxxxx,N/A,KELLY,158297,10,12,TeacherSession12,41,TeacherSession41,3,TeacherSession3,4,TeacherSession4
+SOPHIE,Mxxxx,N/A,PAZDERAK,134082,10,41,TeacherSession41,35,TeacherSession35,1,TeacherSession1,31,TeacherSession31
+PAULETTE,Pxxx,N/A,ROBBINS,100291,10,18,TeacherSession18,19,TeacherSession19,20,TeacherSession20,27,TeacherSession27
+ANAIS,Hxxxxxx,N/A,KELLY,133588,10,2,TeacherSession2,1,TeacherSession1,46,TeacherSession46,41,TeacherSession41
+MAGGIE,Txxxxxxxx,N/A,ENGLER,182069,10,43,TeacherSession43,19,TeacherSession19,44,TeacherSession44,42,TeacherSession42
+PAYTON,Gxxxx,N/A,N BRAMLETT,113750,10,34,TeacherSession34,41,TeacherSession41,14,TeacherSession14,10,TeacherSession10
+JAMES,Pxxxx,N/A,KELLY,152969,10,6,TeacherSession6,15,TeacherSession15,19,TeacherSession19,13,TeacherSession13
+MCKENNA,Fxxxx,N/A,N BRAMLETT,183524,10,43,TeacherSession43,37,TeacherSession37,6,TeacherSession6,1,TeacherSession1
+JORDYN,Jxxxx,N/A,N BRAMLETT,123624,10,35,TeacherSession35,19,TeacherSession19,22,TeacherSession22,44,TeacherSession44
+SAMUAL,Hxxxx,N/A,KELLY,113003,10,10,TeacherSession10,17,TeacherSession17,39,TeacherSession39,43,TeacherSession43
+ALIVIA,Hxxxx,N/A,N BRAMLETT,111298,10,43,TeacherSession43,42,TeacherSession42,44,TeacherSession44,2,TeacherSession2
+SHRIYA,Vxxxxx,N/A,ENGLER,173779,10,41,TeacherSession41,46,TeacherSession46,32,TeacherSession32,44,TeacherSession44
+LAHNA,Bxxxxx,N/A,ROSS,172601,10,12,TeacherSession12,7,TeacherSession7,1,TeacherSession1,4,TeacherSession4
+GENEVIEVE,Gxxxxxx,N/A,N BRAMLETT,143739,10,1,TeacherSession1,28,TeacherSession28,22,TeacherSession22,34,TeacherSession34
+CHASE,Kxxxxxx,N/A,KHLYABICH,101587,10,8,TeacherSession8,10,TeacherSession10,15,TeacherSession15,19,TeacherSession19
+GEORGE,Bxxxxxxxxxx,N/A,REGAN,169061,10,1,TeacherSession1,3,TeacherSession3,16,TeacherSession16,5,TeacherSession5
+FERN,Wxxxxx,N/A,ENGLER,111225,10,37,TeacherSession37,5,TeacherSession5,40,TeacherSession40,2,TeacherSession2
+SID,Pxxxxxxxxx,N/A,ROSS,141244,10,5,TeacherSession5,9,TeacherSession9,10,TeacherSession10,11,TeacherSession11
+GRACE,Sxxxxxxxxx,N/A,RADD,132216,10,34,TeacherSession34,19,TeacherSession19,22,TeacherSession22,13,TeacherSession13
+YOUSSEF,Hxxxxxx,N/A,N BRAMLETT,109065,10,13,TeacherSession13,18,TeacherSession18,23,TeacherSession23,22,TeacherSession22
+DANIELLA,Fxxxxxx,N/A,REGAN,175206,10,8,TeacherSession8,9,TeacherSession9,16,TeacherSession16,26,TeacherSession26
+MIKE,Dxxxxxx,N/A,REGAN,105522,10,43,TeacherSession43,6,TeacherSession6,42,TeacherSession42,36,TeacherSession36
+RACHEL,Cxxx,N/A,REGAN,121820,10,16,TeacherSession16,19,TeacherSession19,17,TeacherSession17,39,TeacherSession39
+ALEXANDER NEFF,Nxxx,N/A,ROSS,110991,10,45,TeacherSession45,36,TeacherSession36,22,TeacherSession22,19,TeacherSession19
+AMY,Cxxxxxx,N/A,ROSS,133899,10,45,TeacherSession45,19,TeacherSession19,4,TeacherSession4,1,TeacherSession1
+MATTHEW,Gxxxxxxx,N/A,N BRAMLETT,179482,10,37,TeacherSession37,46,TeacherSession46,44,TeacherSession44,45,TeacherSession45
+BELEN,Cxxxxxxx,N/A,ROSS,121557,10,2,TeacherSession2,43,TeacherSession43,28,TeacherSession28,17,TeacherSession17
+TAMIM,Sxxxxx,N/A,ROSS,199452,10,1,TeacherSession1,2,TeacherSession2,5,TeacherSession5,7,TeacherSession7
+JERRY,Lxx,N/A,KELLY,172606,10,2,TeacherSession2,1,TeacherSession1,29,TeacherSession29,6,TeacherSession6
+EMILY,Lxxxxx,N/A,ROSS,186954,10,2,TeacherSession2,43,TeacherSession43,28,TeacherSession28,44,TeacherSession44
+SOPHIA,Gxxxxxxxxx,N/A,N BRAMLETT,105957,10,29,TeacherSession29,22,TeacherSession22,19,TeacherSession19,20,TeacherSession20
+KAYNAM,Nxxxxxxxxxxxxxxxxxxx,N/A,ROBBINS,123264,10,46,TeacherSession46,29,TeacherSession29,37,TeacherSession37,17,TeacherSession17
+SIENNA,Lxxx,N/A,KELLY,119928,10,43,TeacherSession43,41,TeacherSession41,4,TeacherSession4,6,TeacherSession6
+NATHAN,Dx xxxx,N/A,N BRAMLETT,137947,10,12,TeacherSession12,7,TeacherSession7,5,TeacherSession5,13,TeacherSession13
+AKSHAY,Vxxxxx,N/A,N BRAMLETT,100063,10,1,TeacherSession1,2,TeacherSession2,3,TeacherSession3,4,TeacherSession4
+WILLIAM,Exxxxxx,N/A,N BRAMLETT,187965,10,36,TeacherSession36,34,TeacherSession34,44,TeacherSession44,42,TeacherSession42
+MIA,Pxxxx,N/A,ROBBINS,113887,10,15,TeacherSession15,4,TeacherSession4,43,TeacherSession43,14,TeacherSession14
+LILLY,Pxxxx,N/A,ROBBINS,178770,10,35,TeacherSession35,22,TeacherSession22,17,TeacherSession17,19,TeacherSession19
+TREVEN,Lxxxx,N/A,KHLYABICH,153042,10,12,TeacherSession12,13,TeacherSession13,11,TeacherSession11,19,TeacherSession19
+RAY,Hxxxx,N/A,N BRAMLETT,190390,10,5,TeacherSession5,8,TeacherSession8,9,TeacherSession9,10,TeacherSession10
+MILI,Pxxxx,N/A,ROBBINS,100946,10,13,TeacherSession13,37,TeacherSession37,7,TeacherSession7,32,TeacherSession32
+RAAHA,Sxxxxxxxxx,N/A,ROBBINS,172446,10,37,TeacherSession37,28,TeacherSession28,41,TeacherSession41,32,TeacherSession32
+BRAYDEN,Gxxxxx,N/A,N BRAMLETT,114783,10,43,TeacherSession43,6,TeacherSession6,12,TeacherSession12,4,TeacherSession4
+SRUTHI,Sxxxxx,N/A,ROBBINS,129846,10,4,TeacherSession4,14,TeacherSession14,37,TeacherSession37,35,TeacherSession35
+MAGGIE,Qxx,N/A,N BRAMLETT,132817,10,18,TeacherSession18,27,TeacherSession27,26,TeacherSession26,16,TeacherSession16
+LAELIA,Pxxxxxx,N/A,ROBBINS,140678,10,12,TeacherSession12,2,TeacherSession2,44,TeacherSession44,19,TeacherSession19
+CAL,Dxxx,N/A,BARRETT,125402,9,13,TeacherSession13,12,TeacherSession12,5,TeacherSession5,44,TeacherSession44
+COLETON,Exxxx,N/A,FOSTER,124694,9,3,TeacherSession3,16,TeacherSession16,15,TeacherSession15,10,TeacherSession10
+JOHN,Mxxxxx,N/A,SCOTT-RODGERS,107749,9,9,TeacherSession9,6,TeacherSession6,43,TeacherSession43,8,TeacherSession8
+RILEY,Hxxxxxxxx,N/A,FOSTER,171480,9,46,TeacherSession46,23,TeacherSession23,17,TeacherSession17,41,TeacherSession41
+LILLY,Sxxxx,N/A,DOWNIE,199240,9,2,TeacherSession2,1,TeacherSession1,45,TeacherSession45,3,TeacherSession3
+CARLEY,Sxxxxx,N/A,DOWNIE,175194,9,36,TeacherSession36,44,TeacherSession44,26,TeacherSession26,18,TeacherSession18
+ZACH,Fxxxxx,N/A,FOSTER,137796,9,28,TeacherSession28,17,TeacherSession17,16,TeacherSession16,15,TeacherSession15
+JORDYN,Mxxxx,N/A,CAPRON,188561,9,2,TeacherSession2,29,TeacherSession29,34,TeacherSession34,19,TeacherSession19
+GRACE,Lxxxx,N/A,CAPRON,140308,9,2,TeacherSession2,29,TeacherSession29,34,TeacherSession34,19,TeacherSession19
+AMELIA,Sxxxxxx,N/A,DOWNIE,131600,9,35,TeacherSession35,37,TeacherSession37,22,TeacherSession22,19,TeacherSession19
+HARMONEY,Sxxx,N/A,DOWNIE,183913,9,34,TeacherSession34,31,TeacherSession31,17,TeacherSession17,19,TeacherSession19
+CYDNEE,Mxxxxxx,N/A,SCOTT-RODGERS,150629,9,9,TeacherSession9,8,TeacherSession8,10,TeacherSession10,11,TeacherSession11
+BRIANNA,Sxxxxxxxxx,N/A,DOWNIE,173772,9,46,TeacherSession46,28,TeacherSession28,4,TeacherSession4,44,TeacherSession44
+OLIVIA,Bxxxxxxx,N/A,DOWNIE,166737,9,35,TeacherSession35,37,TeacherSession37,22,TeacherSession22,17,TeacherSession17
+PRESTON,Cxxxxxx,N/A,MARTIN,149091,9,34,TeacherSession34,1,TeacherSession1,7,TeacherSession7,8,TeacherSession8
+SHIVAM,Gxxx,N/A,BARRETT,135945,9,10,TeacherSession10,9,TeacherSession9,1,TeacherSession1,7,TeacherSession7
+DAVID,Lxxxxxxx,N/A,SCOTT-RODGERS,135591,9,26,TeacherSession26,17,TeacherSession17,23,TeacherSession23,15,TeacherSession15
+TIFFANY,Dxxxx,N/A,FOSTER,110910,9,15,TeacherSession15,13,TeacherSession13,3,TeacherSession3,5,TeacherSession5
+GRAYSON,Mxxxx,N/A,CAPRON,148055,9,18,TeacherSession18,20,TeacherSession20,21,TeacherSession21,22,TeacherSession22
+ISABELLE,Gxxxxx,N/A,BARRETT,173654,9,1,TeacherSession1,33,TeacherSession33,4,TeacherSession4,8,TeacherSession8
+SOPHIA,Kxxx,N/A,CAPRON,119680,9,37,TeacherSession37,32,TeacherSession32,15,TeacherSession15,28,TeacherSession28
+JOEY,Jxxxx,N/A,CAPRON,154154,9,43,TeacherSession43,12,TeacherSession12,11,TeacherSession11,37,TeacherSession37
+DANIELA,Jxxxxxx,N/A,CAPRON,168951,9,28,TeacherSession28,35,TeacherSession35,15,TeacherSession15,17,TeacherSession17
+ZACHARY,Hxxxxxxxxx,N/A,CAPRON,117969,9,40,TeacherSession40,10,TeacherSession10,8,TeacherSession8,13,TeacherSession13
+HOPE,Rxxxxx,N/A,FOSTER,141656,9,10,TeacherSession10,13,TeacherSession13,5,TeacherSession5,8,TeacherSession8
+ADDISON,Sxxxx,N/A,KEMPFER,197965,9,15,TeacherSession15,18,TeacherSession18,45,TeacherSession45,36,TeacherSession36
+ANEEQA,Exxxxxxxx,N/A,BARRETT,137363,9,6,TeacherSession6,2,TeacherSession2,4,TeacherSession4,1,TeacherSession1
+ERIC,Nxxxx,N/A,SCOTT-RODGERS,165004,9,8,TeacherSession8,9,TeacherSession9,40,TeacherSession40,16,TeacherSession16
+WYATT,Dxxxxxx,N/A,MARTIN,140764,9,13,TeacherSession13,1,TeacherSession1,3,TeacherSession3,15,TeacherSession15
+MASON,Zxx,N/A,MARTIN,142047,9,13,TeacherSession13,1,TeacherSession1,11,TeacherSession11,23,TeacherSession23
+ELLIANA,Fxxxx,N/A,BARRETT,141644,9,34,TeacherSession34,2,TeacherSession2,46,TeacherSession46,14,TeacherSession14
+AVA,Bxxxxxx,N/A,MILLER,191686,9,2,TeacherSession2,1,TeacherSession1,15,TeacherSession15,43,TeacherSession43
+IZZY,Dxxxxxxxxx,N/A,KEMPFER,177762,9,12,TeacherSession12,10,TeacherSession10,13,TeacherSession13,37,TeacherSession37
+JACOB,Vxxxxxxxxxxx,N/A,KEMPFER,195651,9,38,TeacherSession38,32,TeacherSession32,29,TeacherSession29,22,TeacherSession22
+MAX,Wxxx,N/A,KEMPFER,121268,9,38,TeacherSession38,32,TeacherSession32,29,TeacherSession29,22,TeacherSession22
+TALIA,Wxxxx,N/A,KEMPFER,168980,9,35,TeacherSession35,17,TeacherSession17,32,TeacherSession32,14,TeacherSession14
+CLAUDIA,Mxxxxxx,N/A,SCOTT-RODGERS,186394,9,11,TeacherSession11,13,TeacherSession13,41,TeacherSession41,43,TeacherSession43
+ANA,Jxxxxxx,N/A,CAPRON,148890,9,41,TeacherSession41,6,TeacherSession6,32,TeacherSession32,36,TeacherSession36
+SIMEON,Hxxxx,N/A,BARRETT,143533,9,29,TeacherSession29,30,TeacherSession30,18,TeacherSession18,32,TeacherSession32
+AMABEL,Txxxxxx,N/A,KEMPFER,104369,9,43,TeacherSession43,4,TeacherSession4,13,TeacherSession13,21,TeacherSession21
+JAY,Jxxxxxx,N/A,SCOTT-RODGERS,111007,9,15,TeacherSession15,8,TeacherSession8,5,TeacherSession5,2,TeacherSession2
+LONDON,Kxxxxxxx,N/A,SCOTT-RODGERS,193330,9,40,TeacherSession40,9,TeacherSession9,10,TeacherSession10,8,TeacherSession8
+AVA,Fxxxxx,N/A,BARRETT,190567,9,2,TeacherSession2,30,TeacherSession30,34,TeacherSession34,37,TeacherSession37
+CECELIA,Cxxxxxx,N/A,BARRETT,183792,9,2,TeacherSession2,30,TeacherSession30,34,TeacherSession34,37,TeacherSession37
+NOAH,Mxxxxx,N/A,SCOTT-RODGERS,169520,9,12,TeacherSession12,11,TeacherSession11,6,TeacherSession6,10,TeacherSession10
+MEGHAN,Hxxxxxx,N/A,CAPRON,138675,9,13,TeacherSession13,3,TeacherSession3,15,TeacherSession15,17,TeacherSession17
+ELLA,Sxxxxx,N/A,DOWNIE,127245,9,44,TeacherSession44,28,TeacherSession28,37,TeacherSession37,18,TeacherSession18
+DIYOR,Axxxxxxx,N/A,MILLER,152026,9,18,TeacherSession18,20,TeacherSession20,22,TeacherSession22,15,TeacherSession15
+HAEDYN,Lxxxxxxx,N/A,SCOTT-RODGERS,182423,9,30,TeacherSession30,43,TeacherSession43,29,TeacherSession29,16,TeacherSession16
+SUN,Hxx,N/A,KEMPFER,183238,9,46,TeacherSession46,41,TeacherSession41,34,TeacherSession34,16,TeacherSession16
+MICHAEL,Yxxx,N/A,MARTIN,167732,9,37,TeacherSession37,28,TeacherSession28,46,TeacherSession46,5,TeacherSession5
+BEYLA,Nxxx,N/A,SCOTT-RODGERS,192410,9,14,TeacherSession14,35,TeacherSession35,45,TeacherSession45,22,TeacherSession22
+JAKE,Cxxxxx,N/A,MILLER,186012,9,10,TeacherSession10,6,TeacherSession6,1,TeacherSession1,15,TeacherSession15
+OLIVER,Mxxxxx,N/A,CAPRON,143100,9,4,TeacherSession4,20,TeacherSession20,22,TeacherSession22,12,TeacherSession12
+BYRON,Bxxxxx,N/A,MARTIN,164396,9,15,TeacherSession15,18,TeacherSession18,26,TeacherSession26,36,TeacherSession36
+SONJA,Kxxxxxx,N/A,SCOTT-RODGERS,173416,9,37,TeacherSession37,9,TeacherSession9,8,TeacherSession8,46,TeacherSession46
+DANIEL,Sxxxxx,N/A,KEMPFER,194784,9,24,TeacherSession24,39,TeacherSession39,11,TeacherSession11,8,TeacherSession8
+AVERY,Mxxxxxxxxx,N/A,CAPRON,176458,9,16,TeacherSession16,26,TeacherSession26,15,TeacherSession15,45,TeacherSession45
+TANA,Bxxxxxxx,N/A,FOSTER,179838,9,1,TeacherSession1,33,TeacherSession33,15,TeacherSession15,2,TeacherSession2
+KEEGAN,Sxxxxxx,N/A,DOWNIE,185628,9,29,TeacherSession29,31,TeacherSession31,28,TeacherSession28,23,TeacherSession23
+JACOB,Wxxxx,N/A,SCOTT-RODGERS,160072,9,9,TeacherSession9,10,TeacherSession10,12,TeacherSession12,13,TeacherSession13
+GAVIN,Jxxxxxx,N/A,CAPRON,139210,9,22,TeacherSession22,10,TeacherSession10,8,TeacherSession8,45,TeacherSession45
+HENRY,Bxxxx,N/A,MILLER,150452,9,34,TeacherSession34,1,TeacherSession1,7,TeacherSession7,8,TeacherSession8
+AIDEN,Cxxxxxxxx,N/A,MILLER,171604,9,28,TeacherSession28,29,TeacherSession29,33,TeacherSession33,34,TeacherSession34
+BRAYDEN,Bxxxxx,N/A,MILLER,181374,9,42,TeacherSession42,17,TeacherSession17,22,TeacherSession22,28,TeacherSession28
+MARCELL,Cxxxx,N/A,MILLER,198641,9,42,TeacherSession42,17,TeacherSession17,22,TeacherSession22,28,TeacherSession28
+JACE,Cxxxx,N/A,MILLER,144904,9,21,TeacherSession21,24,TeacherSession24,45,TeacherSession45,8,TeacherSession8
+BREVIN,Oxxxx,N/A,SCOTT-RODGERS,193373,9,12,TeacherSession12,11,TeacherSession11,13,TeacherSession13,4,TeacherSession4
+MICHAEL,Txxxxx,N/A,MARTIN,129303,9,13,TeacherSession13,11,TeacherSession11,7,TeacherSession7,41,TeacherSession41
+JENNY,Hxxxx,N/A,CAPRON,166732,9,30,TeacherSession30,37,TeacherSession37,10,TeacherSession10,15,TeacherSession15
+DESMOND,Jxxxx,N/A,SCOTT-RODGERS,143026,9,1,TeacherSession1,3,TeacherSession3,44,TeacherSession44,14,TeacherSession14
+CULLEN,Rxxxxxx,N/A,KEMPFER,125935,9,41,TeacherSession41,38,TeacherSession38,27,TeacherSession27,21,TeacherSession21
+VALERIE,Fxxxxxxx,N/A,MARTIN,134720,9,41,TeacherSession41,16,TeacherSession16,34,TeacherSession34,37,TeacherSession37
+CATHRYN,Cxxxxx,N/A,FOSTER,149927,9,18,TeacherSession18,29,TeacherSession29,1,TeacherSession1,2,TeacherSession2
+MARLEY,Gxxxxx,N/A,MILLER,172001,9,2,TeacherSession2,4,TeacherSession4,22,TeacherSession22,28,TeacherSession28
+NIKITA,Sxxxx,N/A,KEMPFER,170900,9,15,TeacherSession15,28,TeacherSession28,29,TeacherSession29,45,TeacherSession45
+DUNCAN,Sxxxxx,N/A,DOWNIE,120470,9,10,TeacherSession10,8,TeacherSession8,9,TeacherSession9,39,TeacherSession39
+GIA,Rxxx,N/A,MARTI,177526,9,34,TeacherSession34,37,TeacherSession37,2,TeacherSession2,26,TeacherSession26
+RYAN,Vxxxxxxx,N/A,MARTIN,141828,9,12,TeacherSession12,13,TeacherSession13,15,TeacherSession15,17,TeacherSession17
+EMMA,Bxxxx,N/A,MILLER,183637,9,37,TeacherSession37,36,TeacherSession36,32,TeacherSession32,28,TeacherSession28
+ELIZABETH,Gxxxxx,N/A,FOSTER,115618,9,18,TeacherSession18,5,TeacherSession5,1,TeacherSession1,2,TeacherSession2
+BHAVAN,Gxxxx,N/A,MARTI,188190,9,12,TeacherSession12,16,TeacherSession16,18,TeacherSession18,45,TeacherSession45
+ALEX,Kxxxxx,N/A,CAPRON,177801,9,10,TeacherSession10,9,TeacherSession9,5,TeacherSession5,18,TeacherSession18
+LUKE,Bxxxx,N/A,MILLER,182627,9,15,TeacherSession15,11,TeacherSession11,8,TeacherSession8,10,TeacherSession10
+SHRITHIKA,Bxxxx,N/A,GRAHAM,196570,8,37,TeacherSession37,17,TeacherSession17,31,TeacherSession31,20,TeacherSession20
+EMMA,Lxxxxxxxxxx,N/A,CAPRON,143168,9,22,TeacherSession22,29,TeacherSession29,35,TeacherSession35,28,TeacherSession28
+HUKA,Txxxxxxx,N/A,DOWNIE,157536,9,15,TeacherSession15,14,TeacherSession14,45,TeacherSession45,42,TeacherSession42
+CARSYN,Hxxxxx,N/A,FOSTER,123758,9,45,TeacherSession45,44,TeacherSession44,8,TeacherSession8,13,TeacherSession13
+SELAH,Vxxxxxx,N/A,MARTIN,158141,9,33,TeacherSession33,45,TeacherSession45,34,TeacherSession34,15,TeacherSession15
+RONAN,Rxxxxx,N/A,KEMPFER,168268,9,1,TeacherSession1,4,TeacherSession4,38,TeacherSession38,37,TeacherSession37
+ARTHUR,Kxxxxxxxx xxxxx xxxx xx xxxxxxxx,N/A,MILLER,198779,9,5,TeacherSession5,15,TeacherSession15,13,TeacherSession13,45,TeacherSession45
+LOGAN,Nxxxxxxx,N/A,MARTI,110313,9,3,TeacherSession3,8,TeacherSession8,5,TeacherSession5,46,TeacherSession46
+DOMINIC,Dxxxxxx,N/A,MARTIN,118212,9,23,TeacherSession23,21,TeacherSession21,1,TeacherSession1,2,TeacherSession2
+TESHER,Cxxxxxxx,N/A,MILLER,153997,9,38,TeacherSession38,1,TeacherSession1,7,TeacherSession7,10,TeacherSession10
+JALDEYAH,Pxxxxxxx,N/A,DOWNIE,112729,9,10,TeacherSession10,40,TeacherSession40,38,TeacherSession38,45,TeacherSession45
+ASHLEY,Wxxxxx,N/A,MARTIN,115289,9,4,TeacherSession4,22,TeacherSession22,14,TeacherSession14,31,TeacherSession31
+TEEGAN,Sxxxxxx,N/A,DOWNIE,108213,9,8,TeacherSession8,1,TeacherSession1,18,TeacherSession18,38,TeacherSession38
+PRESTON,Kxxxxxx,N/A,MARTIN,151535,9,17,TeacherSession17,16,TeacherSession16,22,TeacherSession22,1,TeacherSession1
+KAI,Mxxxx,N/A,MARTI,123905,9,32,TeacherSession32,37,TeacherSession37,45,TeacherSession45,46,TeacherSession46
+SEBASTIAN,Lxxxxxxxxxxxxxx,N/A,FOSTER,162891,9,7,TeacherSession7,8,TeacherSession8,11,TeacherSession11,12,TeacherSession12
+DYLAN,Sxxxxx,N/A,KEMPFER,125346,9,15,TeacherSession15,12,TeacherSession12,41,TeacherSession41,18,TeacherSession18
+JAHTEEN,Jxxxxxx,N/A,SCOTT-RODGERS,150154,9,1,TeacherSession1,2,TeacherSession2,21,TeacherSession21,9,TeacherSession9
+EMMA,Nxxxx,N/A,MARTI,183657,9,29,TeacherSession29,16,TeacherSession16,5,TeacherSession5,43,TeacherSession43
+EMMA,Mxxx,N/A,MARTI,110843,9,21,TeacherSession21,23,TeacherSession23,44,TeacherSession44,42,TeacherSession42
+LILY,Vx,N/A,MARTIN,129114,9,4,TeacherSession4,22,TeacherSession22,23,TeacherSession23,29,TeacherSession29
+LILIANA ( LIL ),Dxxxx,N/A,MARTIN,136401,9,44,TeacherSession44,22,TeacherSession22,42,TeacherSession42,17,TeacherSession17
+QUINN,Bxxxxx,N/A,MILLER,167281,9,23,TeacherSession23,21,TeacherSession21,22,TeacherSession22,25,TeacherSession25
+ANDREW,Vxxxx,N/A,MARTI,139659,9,10,TeacherSession10,8,TeacherSession8,9,TeacherSession9,11,TeacherSession11
+ELLIANA,Pxxxxx,N/A,MARTI,107952,9,42,TeacherSession42,44,TeacherSession44,45,TeacherSession45,35,TeacherSession35
+JOCELYN,Gxxxx,N/A,BARRETT,128097,9,18,TeacherSession18,22,TeacherSession22,37,TeacherSession37,43,TeacherSession43
+JOSEPH,Pxxxxxx,N/A,MARTI,162872,9,13,TeacherSession13,1,TeacherSession1,5,TeacherSession5,3,TeacherSession3
+KAVISH,Pxxxx,N/A,MARTI,191353,9,10,TeacherSession10,6,TeacherSession6,13,TeacherSession13,7,TeacherSession7
+ANISHA,Cxxxxxx,N/A,MILLER,112366,9,13,TeacherSession13,5,TeacherSession5,41,TeacherSession41,45,TeacherSession45
+ANDREW,Gxxxxxxx,N/A,BARRETT,117604,9,1,TeacherSession1,8,TeacherSession8,10,TeacherSession10,18,TeacherSession18
+AVA,Pxxxxxx,N/A,MARTI,172281,9,38,TeacherSession38,17,TeacherSession17,34,TeacherSession34,13,TeacherSession13
+RAHJIEK,Yxxxx,N/A,MARTIN,107413,9,12,TeacherSession12,7,TeacherSession7,13,TeacherSession13,11,TeacherSession11
+JEREMY,Bxxxxxxxxxxxxxxxxx,N/A,BERINSTAIN-MUELLER,194257,9,10,TeacherSession10,11,TeacherSession11,46,TeacherSession46,9,TeacherSession9
+CAROLINE,Oxxxxxxxx,N/A,MARTI,172558,9,14,TeacherSession14,15,TeacherSession15,38,TeacherSession38,37,TeacherSession37
+LAELA,Nxxxx,N/A,MARTI,141531,9,22,TeacherSession22,44,TeacherSession44,25,TeacherSession25,15,TeacherSession15
+SAWYER,Lxxxx,N/A,CAPRON,142753,9,34,TeacherSession34,41,TeacherSession41,43,TeacherSession43,25,TeacherSession25
+DAVIS,Bxxxxxx,N/A,FOSTER,198522,9,12,TeacherSession12,13,TeacherSession13,1,TeacherSession1,10,TeacherSession10
+ZOI,Vxxxxxxxx,N/A,MARTIN,163456,9,4,TeacherSession4,20,TeacherSession20,43,TeacherSession43,44,TeacherSession44
+NABEEL,Qxxxxx,N/A,MARTIN,136715,9,17,TeacherSession17,16,TeacherSession16,22,TeacherSession22,46,TeacherSession46
+PAIGE,Fxxxx,N/A,FOSTER,175902,9,5,TeacherSession5,12,TeacherSession12,13,TeacherSession13,6,TeacherSession6
+SANTIAGO,Dxxxxxx xxxxxxx,N/A,MILLER,115153,9,16,TeacherSession16,23,TeacherSession23,13,TeacherSession13,44,TeacherSession44
+CATALINA,Wxxxxxx,N/A,KEMPFER,183057,9,20,TeacherSession20,1,TeacherSession1,2,TeacherSession2,15,TeacherSession15
+TAMRYN,Dxxx,N/A,BARRETT,188400,9,37,TeacherSession37,1,TeacherSession1,44,TeacherSession44,43,TeacherSession43
+EDDIEL,Txxxxx xxxxxxx,N/A,FOSTER,118175,9,9,TeacherSession9,13,TeacherSession13,12,TeacherSession12,7,TeacherSession7
+CAMILA,Axxxxxx,N/A,MILLER,102827,9,2,TeacherSession2,1,TeacherSession1,44,TeacherSession44,10,TeacherSession10
+CHAD,Mxxxxxx,N/A,SCOTT-RODGERS,192747,9,45,TeacherSession45,16,TeacherSession16,15,TeacherSession15,18,TeacherSession18
+KAYLA,Mxxxxxxx,N/A,CAPRON,103120,9,37,TeacherSession37,43,TeacherSession43,10,TeacherSession10,28,TeacherSession28
+NICHOLAS,Dx xxxx,N/A,BARRETT,136892,9,45,TeacherSession45,16,TeacherSession16,5,TeacherSession5,15,TeacherSession15
+DESTINY,Hxxxxxx,N/A,BARRETT,127667,9,8,TeacherSession8,10,TeacherSession10,11,TeacherSession11,44,TeacherSession44
+LAURALAI,Gxxx,N/A,FOSTER,197767,9,14,TeacherSession14,5,TeacherSession5,15,TeacherSession15,41,TeacherSession41
+SOFIA,Sxxxxxx,N/A,KEMPFER,127606,9,37,TeacherSession37,44,TeacherSession44,3,TeacherSession3,46,TeacherSession46
+ALDO,Nxxxx,N/A,SMITH,121639,7,23,TeacherSession23,24,TeacherSession24,25,TeacherSession25,33,TeacherSession33
+SANKEERTH,Kxxxxxxxx,N/A,BARTLETT,127329,8,38,TeacherSession38,21,TeacherSession21,24,TeacherSession24,30,TeacherSession30
+ALLISON,Txxxx,N/A,OLSON,133589,7,26,TeacherSession26,4,TeacherSession4,27,TeacherSession27,25,TeacherSession25
+JACKSON,Txxxx,N/A,NAVARRETE,183591,7,8,TeacherSession8,25,TeacherSession25,25,TeacherSession25,27,TeacherSession27
+GRIFFIN,Mxxxxx,N/A,SMITH,161284,7,21,TeacherSession21,24,TeacherSession24,30,TeacherSession30,38,TeacherSession38
+MASON,Rxxxx,N/A,SMITH,157918,7,7,TeacherSession7,24,TeacherSession24,25,TeacherSession25,25,TeacherSession25
+ABIGAIL,Fxxxxxx,N/A,REHM,123672,8,5,TeacherSession5,12,TeacherSession12,10,TeacherSession10,9,TeacherSession9
+ZOE,Lxxxxxxx,N/A,MCCORMICK,104298,8,14,TeacherSession14,22,TeacherSession22,41,TeacherSession41,1,TeacherSession1
+SEBASTIAN,Gxxxxxxx,N/A,VAUTIER,180232,8,9,TeacherSession9,8,TeacherSession8,7,TeacherSession7,22,TeacherSession22
+HAIDEN,Fxxx,N/A,GRIFFIN,132110,8,9,TeacherSession9,8,TeacherSession8,10,TeacherSession10,38,TeacherSession38
+JOSHUA,Oxxxx,N/A,MCCORMICK,152763,8,38,TeacherSession38,3,TeacherSession3,25,TeacherSession25,40,TeacherSession40
+BROOKLYN,Hxxx,N/A,VAUTIER,138385,8,2,TeacherSession2,22,TeacherSession22,34,TeacherSession34,43,TeacherSession43
+FAIZAN,Axxxx,N/A,GRAHAM,113558,8,33,TeacherSession33,17,TeacherSession17,37,TeacherSession37,32,TeacherSession32
+GWEN,Lxxx,N/A,MCCORMICK,161584,8,43,TeacherSession43,42,TeacherSession42,4,TeacherSession4,1,TeacherSession1
+TOMMY,Lxxxxxx,N/A,BARTLETT,190883,8,43,TeacherSession43,10,TeacherSession10,8,TeacherSession8,11,TeacherSession11
+BROOKE,Jxxxxxx,N/A,GRIFFIN,193845,8,4,TeacherSession4,2,TeacherSession2,36,TeacherSession36,39,TeacherSession39
+THOMAS,Cxxxxxxx,N/A,REHM,182063,8,7,TeacherSession7,10,TeacherSession10,8,TeacherSession8,13,TeacherSession13
+KELLER,Mxxxx,N/A,BARTLETT,122722,8,5,TeacherSession5,7,TeacherSession7,8,TeacherSession8,13,TeacherSession13
+EVAN,Gxxxxxxxxx,N/A,GRIFFIN,170120,8,22,TeacherSession22,43,TeacherSession43,15,TeacherSession15,12,TeacherSession12
+ALANA,Bxxxxxxxxxxxxx,N/A,REHM,180981,8,1,TeacherSession1,2,TeacherSession2,18,TeacherSession18,17,TeacherSession17
+AMANDA,Bxxxxxx,N/A,REHM,129689,8,22,TeacherSession22,35,TeacherSession35,17,TeacherSession17,42,TeacherSession42
+MERA,Hxxxxx,N/A,GRIFFIN,140540,8,1,TeacherSession1,2,TeacherSession2,13,TeacherSession13,15,TeacherSession15
+WILLIAM,Gxxxxxxx,N/A,VAUTIER,114072,8,17,TeacherSession17,12,TeacherSession12,15,TeacherSession15,10,TeacherSession10
+NOAH GRAY,Gxxx,N/A,GRIFFIN,134397,8,30,TeacherSession30,15,TeacherSession15,34,TeacherSession34,10,TeacherSession10
+JULIETTE,Bxxxx,N/A,REHM,134545,8,4,TeacherSession4,36,TeacherSession36,17,TeacherSession17,21,TeacherSession21
+SERGIO,Pxxxxx,N/A,ARCHIBALD,161430,8,2,TeacherSession2,1,TeacherSession1,7,TeacherSession7,10,TeacherSession10
+JAELYN,Ixxx,N/A,GRIFFIN,199244,8,6,TeacherSession6,1,TeacherSession1,43,TeacherSession43,41,TeacherSession41
+SPENCER,Jxxxxx,N/A,GRIFFIN,176773,8,4,TeacherSession4,1,TeacherSession1,15,TeacherSession15,42,TeacherSession42
+SAM,Kxxxxx,N/A,BARTLETT,141062,8,43,TeacherSession43,15,TeacherSession15,12,TeacherSession12,4,TeacherSession4
+BRADY,Mxxxxx,N/A,BARTLETT,139474,8,43,TeacherSession43,15,TeacherSession15,12,TeacherSession12,4,TeacherSession4
+IZABELLE,Dxxxx,N/A,REHM,113039,8,22,TeacherSession22,20,TeacherSession20,2,TeacherSession2,15,TeacherSession15
+COLLEEN,Cxxxxxxx,N/A,GRAHAM,182466,8,2,TeacherSession2,4,TeacherSession4,1,TeacherSession1,3,TeacherSession3
+NATAHLIA,Axxxx,N/A,REHM,115402,8,2,TeacherSession2,17,TeacherSession17,13,TeacherSession13,4,TeacherSession4
+ZOE,Wxxxxx,N/A,MCCORMICK,142114,8,43,TeacherSession43,2,TeacherSession2,23,TeacherSession23,1,TeacherSession1
+BROOKLYNN,Lxxxx,N/A,MCCORMICK,187679,8,29,TeacherSession29,42,TeacherSession42,43,TeacherSession43,37,TeacherSession37
+KAI,Hxxxxx,N/A,VAUTIER,160294,8,9,TeacherSession9,38,TeacherSession38,1,TeacherSession1,41,TeacherSession41
+JERONIMO,Gxxxxx,N/A,GRIFFIN,121366,8,7,TeacherSession7,9,TeacherSession9,1,TeacherSession1,11,TeacherSession11
+MATTHEW,Bxxxx,N/A,REHM,112747,8,41,TeacherSession41,36,TeacherSession36,12,TeacherSession12,42,TeacherSession42
+KAITLYN,Axxxxxxx,N/A,GRAHAM,178113,8,17,TeacherSession17,15,TeacherSession15,18,TeacherSession18,42,TeacherSession42
+JOY,Cxxx,N/A,GRAHAM,129128,8,42,TeacherSession42,22,TeacherSession22,31,TeacherSession31,35,TeacherSession35
+LILY,Cxxxxxxxx,N/A,GRAHAM,179422,8,42,TeacherSession42,22,TeacherSession22,31,TeacherSession31,35,TeacherSession35
+CHANNING,axxxxxxxx,N/A,GRAHAM,124257,8,39,TeacherSession39,16,TeacherSession16,1,TeacherSession1,31,TeacherSession31
+MEERA,Wxxxxx,N/A,STEWART,186762,8,13,TeacherSession13,36,TeacherSession36,37,TeacherSession37,39,TeacherSession39
+COLBY,Dxxxxxxxx,N/A,GRAHAM,123294,8,27,TeacherSession27,12,TeacherSession12,5,TeacherSession5,6,TeacherSession6
+JULIA,Dxxxxx,N/A,GRAHAM,103836,8,42,TeacherSession42,22,TeacherSession22,31,TeacherSession31,35,TeacherSession35
+ALIA,Exxxxxxxx,N/A,GRIFFIN,102462,8,2,TeacherSession2,13,TeacherSession13,15,TeacherSession15,17,TeacherSession17
+ELI,Gxxxxxx,N/A,VAUTIER,137970,8,8,TeacherSession8,10,TeacherSession10,9,TeacherSession9,39,TeacherSession39
+BRAYDEN,Pxxxxx,N/A,ARCHIBALD,185968,8,8,TeacherSession8,10,TeacherSession10,1,TeacherSession1,15,TeacherSession15
+CAMERON,Bxxxxxx,N/A,GRAHAM,112152,8,39,TeacherSession39,16,TeacherSession16,1,TeacherSession1,31,TeacherSession31
+MASON,Hxxxxxx,N/A,BARTLETT,135514,8,13,TeacherSession13,16,TeacherSession16,18,TeacherSession18,12,TeacherSession12
+MICHAELA,Rxxxxxxx,N/A,MCCORMICK,150514,8,29,TeacherSession29,42,TeacherSession42,22,TeacherSession22,31,TeacherSession31
+RINAH,Pxxxxx,N/A,ARCHIBALD,119641,8,17,TeacherSession17,22,TeacherSession22,23,TeacherSession23,37,TeacherSession37
+VICTORIA,axx,N/A,REHM,160547,8,35,TeacherSession35,17,TeacherSession17,23,TeacherSession23,32,TeacherSession32
+ANAYELI,Hxxxxxxxxxxxxx,N/A,GRIFFIN,113982,8,22,TeacherSession22,35,TeacherSession35,43,TeacherSession43,23,TeacherSession23
+ELIANA,Bxxxxxxx,N/A,GRAHAM,193072,8,4,TeacherSession4,21,TeacherSession21,28,TeacherSession28,43,TeacherSession43
+MATTHEW,Dxxxxxxxxx,N/A,REHM,152912,8,32,TeacherSession32,15,TeacherSession15,5,TeacherSession5,6,TeacherSession6
+MICAH,fxxxxxxxx,N/A,GRIFFIN,179609,8,43,TeacherSession43,40,TeacherSession40,15,TeacherSession15,8,TeacherSession8
+JOHN,Mxxxxxx,N/A,BARTLETT,172373,8,5,TeacherSession5,7,TeacherSession7,3,TeacherSession3,15,TeacherSession15
+JOHN,hxxxxxx,N/A,GRIFFIN,196592,8,42,TeacherSession42,6,TeacherSession6,7,TeacherSession7,1,TeacherSession1
+ARYAN,Pxxxx,N/A,MACDONALD,119586,8,13,TeacherSession13,11,TeacherSession11,12,TeacherSession12,5,TeacherSession5
+MANON,Exxxxxx,N/A,GRIFFIN,194799,8,16,TeacherSession16,37,TeacherSession37,43,TeacherSession43,28,TeacherSession28
+JAELYN,Jxxxx,N/A,GRIFFIN,135640,8,23,TeacherSession23,37,TeacherSession37,28,TeacherSession28,21,TeacherSession21
+SETH,Bxxxxxxxx,N/A,REHM,135804,8,32,TeacherSession32,15,TeacherSession15,5,TeacherSession5,6,TeacherSession6
+GWENDOLYN,Pxxx,N/A,MCCORMICK,115526,8,35,TeacherSession35,37,TeacherSession37,18,TeacherSession18,4,TeacherSession4
+HANA,Txxxxx,N/A,MACDONALD,171364,8,7,TeacherSession7,5,TeacherSession5,3,TeacherSession3,4,TeacherSession4
+TRISTAN,Yxxxx,N/A,NAVARRETE,142949,8,11,TeacherSession11,10,TeacherSession10,1,TeacherSession1,9,TeacherSession9
+CONNOR,Sxxxx,N/A,REHM,130455,8,4,TeacherSession4,32,TeacherSession32,12,TeacherSession12,11,TeacherSession11
+JAMES,Exxxxxx,N/A,GRIFFIN,144496,8,36,TeacherSession36,38,TeacherSession38,1,TeacherSession1,30,TeacherSession30
+MAGGIE,Mxxxxx,N/A,BARTLETT,165720,8,43,TeacherSession43,4,TeacherSession4,42,TeacherSession42,34,TeacherSession34
+TYLER,Bxxxxxxxxx,N/A,GRAHAM,169615,8,9,TeacherSession9,13,TeacherSession13,41,TeacherSession41,8,TeacherSession8
+NATE,Mxxxxx,N/A,BARTLETT,101041,8,2,TeacherSession2,39,TeacherSession39,1,TeacherSession1,5,TeacherSession5
+SAAHIL,Pxxxx,N/A,MCCORMICK,100295,8,13,TeacherSession13,14,TeacherSession14,6,TeacherSession6,15,TeacherSession15
+KEEGAN,Rxxxxxx,N/A,MACDONALD,107305,8,22,TeacherSession22,5,TeacherSession5,7,TeacherSession7,8,TeacherSession8
+JONAH,Pxxxxx,N/A,MCCORMICK,121074,8,12,TeacherSession12,5,TeacherSession5,1,TeacherSession1,13,TeacherSession13
+GWYNEVER,Cxxx,N/A,GRAHAM,119927,8,17,TeacherSession17,2,TeacherSession2,18,TeacherSession18,1,TeacherSession1
+AMBER,Bxxxxx,N/A,GRAHAM,139926,8,40,TeacherSession40,38,TeacherSession38,10,TeacherSession10,8,TeacherSession8
+OLIVIA,Sxxxx,N/A,STEWART,163921,8,2,TeacherSession2,43,TeacherSession43,42,TeacherSession42,17,TeacherSession17
+SHARON,Rxxxxxxx,N/A,ARCHIBALD,161001,8,27,TeacherSession27,18,TeacherSession18,17,TeacherSession17,10,TeacherSession10
+LONDON,Wxxxxx,N/A,STEWART,111996,8,43,TeacherSession43,2,TeacherSession2,42,TeacherSession42,17,TeacherSession17
+ANDI,Gxxxxx,N/A,GRIFFIN,167297,8,28,TeacherSession28,35,TeacherSession35,2,TeacherSession2,43,TeacherSession43
+SPENCER,Cxxxxx,N/A,REHM,159706,8,21,TeacherSession21,10,TeacherSession10,9,TeacherSession9,1,TeacherSession1
+JJ,Bxxxxxxxxx,N/A,REHM,179578,8,24,TeacherSession24,21,TeacherSession21,18,TeacherSession18,20,TeacherSession20
+SLOANE,Kxxxxxx,N/A,BARTLETT,129862,8,43,TeacherSession43,2,TeacherSession2,37,TeacherSession37,34,TeacherSession34
+MAY,Yx,N/A,MACDONALD,112565,8,4,TeacherSession4,12,TeacherSession12,2,TeacherSession2,5,TeacherSession5
+MATTHEW,Txxxxx,N/A,MACDONALD,162649,8,13,TeacherSession13,5,TeacherSession5,12,TeacherSession12,7,TeacherSession7
+DIYA,Yxxx,N/A,STEWART,138807,8,42,TeacherSession42,43,TeacherSession43,2,TeacherSession2,9,TeacherSession9
+GREYSON,Sxxxx,N/A,MACDONALD,160381,8,9,TeacherSession9,8,TeacherSession8,10,TeacherSession10,18,TeacherSession18
+AKSHARA,Bxxxx,N/A,GRAHAM,134104,8,16,TeacherSession16,15,TeacherSession15,17,TeacherSession17,37,TeacherSession37
+SEBASTIAN,nxxxx,N/A,MCCORMICK,165890,8,12,TeacherSession12,5,TeacherSession5,13,TeacherSession13,1,TeacherSession1
+MICAH,Lxxxxxxx,N/A,MCCORMICK,162703,8,12,TeacherSession12,5,TeacherSession5,13,TeacherSession13,1,TeacherSession1
+ZOE,Jxxxxx,N/A,VAUTIER,152417,8,9,TeacherSession9,22,TeacherSession22,10,TeacherSession10,6,TeacherSession6
+MADISON,Sxxxx,N/A,STEWART,126420,8,32,TeacherSession32,15,TeacherSession15,16,TeacherSession16,3,TeacherSession3
+CAROLINA,Gxxxxxxxx,N/A,GRIFFIN,160812,8,20,TeacherSession20,22,TeacherSession22,32,TeacherSession32,1,TeacherSession1
+RILEE,Nxxxxx,N/A,ARCHIBALD,153232,8,23,TeacherSession23,17,TeacherSession17,43,TeacherSession43,15,TeacherSession15
+KEERTHI,Pxxxxxxxxx,N/A,STEWART,147467,8,43,TeacherSession43,37,TeacherSession37,13,TeacherSession13,11,TeacherSession11
+VICTOR,Lxxxx,N/A,BARTLETT,166872,8,42,TeacherSession42,12,TeacherSession12,16,TeacherSession16,15,TeacherSession15
+RUBY,Nxxxx,N/A,ARCHIBALD,137768,8,4,TeacherSession4,12,TeacherSession12,7,TeacherSession7,5,TeacherSession5
+CHAMSSIA,mxxxxxxx,N/A,MCCORMICK,150133,8,39,TeacherSession39,26,TeacherSession26,36,TeacherSession36,5,TeacherSession5
+JAIDA,lxxxx,N/A,MCCORMICK,115475,8,35,TeacherSession35,17,TeacherSession17,23,TeacherSession23,32,TeacherSession32
+MANUEL,Gxxxxxxx,N/A,GRIFFIN,170472,8,9,TeacherSession9,12,TeacherSession12,10,TeacherSession10,5,TeacherSession5
+KRISI,Pxxxx,N/A,ARCHIBALD,131724,8,11,TeacherSession11,5,TeacherSession5,8,TeacherSession8,1,TeacherSession1
+AHANA,Gxxxxx,N/A,VAUTIER,155255,8,43,TeacherSession43,22,TeacherSession22,37,TeacherSession37,17,TeacherSession17
+ELIZABETH,Lxxxxxxxxxxxxxx,N/A,HACKER,168595,7,17,TeacherSession17,29,TeacherSession29,27,TeacherSession27,27,TeacherSession27
+AANYA,Sxxxx,N/A,MACDONALD,137120,8,6,TeacherSession6,13,TeacherSession13,10,TeacherSession10,12,TeacherSession12
+VICTORIA,Yx,N/A,MACDONALD,151719,8,4,TeacherSession4,2,TeacherSession2,17,TeacherSession17,43,TeacherSession43
+KAELANI,Lxxxxx,N/A,BARTLETT,185796,8,28,TeacherSession28,35,TeacherSession35,2,TeacherSession2,43,TeacherSession43
+GISELLE,Pxxxxxxxxxx,N/A,ARCHIBALD,163435,8,42,TeacherSession42,28,TeacherSession28,22,TeacherSession22,30,TeacherSession30
+ANAY,Pxxxx,N/A,ARCHIBALD,141725,8,17,TeacherSession17,22,TeacherSession22,37,TeacherSession37,12,TeacherSession12
+RIYA,Rxxxx,N/A,MACDONALD,196272,8,17,TeacherSession17,2,TeacherSession2,22,TeacherSession22,43,TeacherSession43
+DELILAH,Vxxxxxxxxx,N/A,STEWART,153039,8,16,TeacherSession16,15,TeacherSession15,37,TeacherSession37,17,TeacherSession17
+JULIUS,Sxxxxxx,N/A,MACDONALD,153141,8,8,TeacherSession8,16,TeacherSession16,10,TeacherSession10,1,TeacherSession1
+ABHIRAM,Yxxxx,N/A,STEWART,186084,8,9,TeacherSession9,5,TeacherSession5,8,TeacherSession8,13,TeacherSession13
+NICOLE,Sxxxxx,N/A,ARCHIBALD,167093,8,22,TeacherSession22,43,TeacherSession43,37,TeacherSession37,18,TeacherSession18
+ISABELLA,Qxxxxxxxx,N/A,ARCHIBALD,197950,8,22,TeacherSession22,43,TeacherSession43,37,TeacherSession37,18,TeacherSession18
+JULIAN,Txxx,N/A,MACDONALD,133571,8,7,TeacherSession7,5,TeacherSession5,2,TeacherSession2,17,TeacherSession17
+GRETA,Rxxxxx,N/A,ARCHIBALD,155912,8,22,TeacherSession22,43,TeacherSession43,37,TeacherSession37,18,TeacherSession18
+ALIANA,Yxxxx,N/A,STEWART,146828,8,4,TeacherSession4,6,TeacherSession6,42,TeacherSession42,1,TeacherSession1
+ALEXA,Gxxxxxxxx,N/A,GRIFFIN,164200,8,42,TeacherSession42,22,TeacherSession22,43,TeacherSession43,34,TeacherSession34
+ISABELLE,Pxxxx,N/A,ARCHIBALD,100767,8,42,TeacherSession42,28,TeacherSession28,15,TeacherSession15,16,TeacherSession16
+BRITTANY,Sxxxxx,N/A,STEWART,182830,8,23,TeacherSession23,38,TeacherSession38,37,TeacherSession37,29,TeacherSession29
+CORWYN,Pxxxxxxxxx,N/A,ARCHIBALD,159784,8,5,TeacherSession5,4,TeacherSession4,16,TeacherSession16,38,TeacherSession38
+GRACE,Sxxxxx,N/A,STEWART,170295,8,17,TeacherSession17,28,TeacherSession28,2,TeacherSession2,32,TeacherSession32
+SKYLER,Lxxxxxxx,N/A,BARTLETT,157832,8,12,TeacherSession12,6,TeacherSession6,14,TeacherSession14,7,TeacherSession7
+AINSLEY,cxxxxxxx,N/A,GRAHAM,105658,8,21,TeacherSession21,22,TeacherSession22,20,TeacherSession20,38,TeacherSession38
+OTAVIO,Rxxxxxx,N/A,STEWART,168095,8,9,TeacherSession9,40,TeacherSession40,10,TeacherSession10,22,TeacherSession22
+VINCENT,vxxxxxxxx,N/A,STEWART,132288,8,8,TeacherSession8,40,TeacherSession40,38,TeacherSession38,13,TeacherSession13
+ISABELLA,Sxxxxxxx,N/A,STEWART,100848,8,16,TeacherSession16,34,TeacherSession34,2,TeacherSession2,1,TeacherSession1
+MATTHEW,Vxxxxxxx,N/A,STEWART,160157,8,9,TeacherSession9,40,TeacherSession40,10,TeacherSession10,22,TeacherSession22
+NATALIE,Mxxxxxxxx,N/A,MCCORMICK,183367,8,40,TeacherSession40,17,TeacherSession17,10,TeacherSession10,1,TeacherSession1
+ANIL,Mxxxxxxx,N/A,BARTLETT,162555,8,17,TeacherSession17,15,TeacherSession15,5,TeacherSession5,13,TeacherSession13
+DEVYN,Pxxxxxxx,N/A,ARCHIBALD,163826,8,18,TeacherSession18,15,TeacherSession15,37,TeacherSession37,16,TeacherSession16
+MARK,Txxxxx,N/A,MACDONALD,192193,8,12,TeacherSession12,38,TeacherSession38,22,TeacherSession22,40,TeacherSession40
+AUDREY,Sxxxx,N/A,MACDONALD,122676,8,23,TeacherSession23,17,TeacherSession17,2,TeacherSession2,1,TeacherSession1
+JOHN,Txxxxx,N/A,MACDONALD,112393,8,12,TeacherSession12,38,TeacherSession38,22,TeacherSession22,10,TeacherSession10
+LILY,Wxxxx,N/A,STEWART,157516,8,17,TeacherSession17,41,TeacherSession41,42,TeacherSession42,15,TeacherSession15
+TAMID,Txxxxx,N/A,STEWART,186713,8,8,TeacherSession8,43,TeacherSession43,38,TeacherSession38,10,TeacherSession10
+PATRICK,Txxxx,N/A,STEWART,169082,8,8,TeacherSession8,43,TeacherSession43,38,TeacherSession38,10,TeacherSession10
+AYDEN,wxxxxx,N/A,STEWART,161865,8,8,TeacherSession8,43,TeacherSession43,38,TeacherSession38,10,TeacherSession10
+CAITLIN,Cxxxx,N/A,GRAHAM,172745,8,34,TeacherSession34,31,TeacherSession31,28,TeacherSession28,22,TeacherSession22
+JAKE,Pxxxxxxxx,N/A,ARCHIBALD,120970,8,43,TeacherSession43,42,TeacherSession42,2,TeacherSession2,1,TeacherSession1
+NATALIE,Pxxxx,N/A,ARCHIBALD,106056,8,17,TeacherSession17,5,TeacherSession5,2,TeacherSession2,22,TeacherSession22
+WILLIAM,Dxxxxxx,N/A,VAUTIER,150876,8,11,TeacherSession11,20,TeacherSession20,43,TeacherSession43,42,TeacherSession42
+BRAYDEN,Dxxxxxxx,N/A,GRIFFIN,164634,8,43,TeacherSession43,31,TeacherSession31,20,TeacherSession20,1,TeacherSession1
+ALLISON,Bxxx,N/A,GRAHAM,176093,8,41,TeacherSession41,11,TeacherSession11,2,TeacherSession2,1,TeacherSession1
+JUDAH,Lxxxxxxx,N/A,HACKER,118367,7,33,TeacherSession33,17,TeacherSession17,27,TeacherSession27,20,TeacherSession20
+JORGE,Rxxx,N/A,KIMBERLY,131249,7,23,TeacherSession23,25,TeacherSession25,17,TeacherSession17,40,TeacherSession40
+KAYLEE,Cxxxxxx,N/A,ESTEVEZ,147154,7,34,TeacherSession34,26,TeacherSession26,17,TeacherSession17,26,TeacherSession26
+SAVANNAH,Mxxxxx,N/A,MCCORMICK,101506,8,16,TeacherSession16,15,TeacherSession15,4,TeacherSession4,14,TeacherSession14
+NICOLE,Mxxxxxxxx,N/A,MCCORMICK,190666,8,18,TeacherSession18,35,TeacherSession35,4,TeacherSession4,36,TeacherSession36
+ANJALI,Sxxxxx,N/A,MACDONALD,121782,8,22,TeacherSession22,28,TeacherSession28,35,TeacherSession35,23,TeacherSession23
+BENJAMIN,Hxxxx,N/A,GRIFFIN,178334,8,5,TeacherSession5,9,TeacherSession9,17,TeacherSession17,39,TeacherSession39
+AUDREY,Mxxxxx,N/A,HACKER,150377,7,29,TeacherSession29,43,TeacherSession43,15,TeacherSession15,25,TeacherSession25
+LUIS,Mxxxxx,N/A,JOHNSON,159395,7,40,TeacherSession40,39,TeacherSession39,17,TeacherSession17,24,TeacherSession24
+TESSA,Rxxxxxx,N/A,JOHNSON,168284,7,14,TeacherSession14,43,TeacherSession43,41,TeacherSession41,33,TeacherSession33
+SOUHEIL,Sxxxxxx,N/A,ATKINSON,176726,7,5,TeacherSession5,4,TeacherSession4,3,TeacherSession3,24,TeacherSession24
+HADAR,Rxxxxxxxx,N/A,SMITH,146831,7,6,TeacherSession6,17,TeacherSession17,41,TeacherSession41,25,TeacherSession25
+BRANDON,Pxxx,N/A,JOHNSON,161809,7,41,TeacherSession41,18,TeacherSession18,43,TeacherSession43,20,TeacherSession20
+AVA,Dxxxxxxx,N/A,WALLING,124648,7,34,TeacherSession34,28,TeacherSession28,43,TeacherSession43,24,TeacherSession24
+ETHAN,Axxxx,N/A,ESTEVEZ,199534,7,28,TeacherSession28,17,TeacherSession17,23,TeacherSession23,33,TeacherSession33
+DANIEL,Dxxxxxxxx,N/A,WALLING,157392,7,7,TeacherSession7,9,TeacherSession9,11,TeacherSession11,30,TeacherSession30
+PRESTYN,Sxxxxx,N/A,ATKINSON,175913,7,25,TeacherSession25,42,TeacherSession42,4,TeacherSession4,43,TeacherSession43
+BRODY,fxxxxx,N/A,WALLING,176797,7,39,TeacherSession39,9,TeacherSession9,8,TeacherSession8,30,TeacherSession30
+ISAAC,Pxxxxx,N/A,SMITH,145990,7,23,TeacherSession23,18,TeacherSession18,35,TeacherSession35,33,TeacherSession33
+CARSTON,Cxxxx,N/A,JOHNSON,100595,7,17,TeacherSession17,28,TeacherSession28,18,TeacherSession18,24,TeacherSession24
+JOHN,Pxxxxxx,N/A,SMITH,159279,7,18,TeacherSession18,8,TeacherSession8,27,TeacherSession27,5,TeacherSession5
+ELAINA,Nxxxx,N/A,SMITH,170060,7,11,TeacherSession11,23,TeacherSession23,42,TeacherSession42,26,TeacherSession26
+AYLA,Cxxxxxx,N/A,ESTEVEZ,196688,7,35,TeacherSession35,6,TeacherSession6,42,TeacherSession42,40,TeacherSession40
+ALEJSNDRO,Pxxxxxx,N/A,JOHNSON,179349,7,33,TeacherSession33,43,TeacherSession43,21,TeacherSession21,28,TeacherSession28
+JUNE,vxx xxxxxx,N/A,NAVARRETE,187142,7,43,TeacherSession43,42,TeacherSession42,23,TeacherSession23,6,TeacherSession6
+HANNAH,Txx xxxx,N/A,NAVARRETE,109580,7,4,TeacherSession4,6,TeacherSession6,2,TeacherSession2,12,TeacherSession12
+ELENA,Exxxx,N/A,WALLING,146449,7,28,TeacherSession28,38,TeacherSession38,37,TeacherSession37,21,TeacherSession21
+CARLEY,Txxxxx,N/A,NAVARRETE,158431,7,4,TeacherSession4,5,TeacherSession5,2,TeacherSession2,13,TeacherSession13
+LEAH,Wxxxxx,N/A,NAVARRETE,189734,7,14,TeacherSession14,3,TeacherSession3,16,TeacherSession16,36,TeacherSession36
+ALEX,txxxxxx,N/A,ATKINSON,109548,7,8,TeacherSession8,5,TeacherSession5,7,TeacherSession7,10,TeacherSession10
+MILES,Sxxxxx,N/A,ATKINSON,172987,7,34,TeacherSession34,41,TeacherSession41,39,TeacherSession39,37,TeacherSession37
+MASSIMO,Rxxxxx,N/A,ATKINSON,138502,7,11,TeacherSession11,8,TeacherSession8,13,TeacherSession13,10,TeacherSession10
+VICTORIA,Hxxxxxxxxx,N/A,WALLING,117120,7,13,TeacherSession13,4,TeacherSession4,7,TeacherSession7,34,TeacherSession34
+ANDREW,Txxxxx,N/A,NAVARRETE,147931,7,13,TeacherSession13,7,TeacherSession7,5,TeacherSession5,10,TeacherSession10
+HARPER,Wxxxxxxxxx,N/A,NAVARRETE,182262,7,21,TeacherSession21,38,TeacherSession38,23,TeacherSession23,2,TeacherSession2
+MIA,Txxxxxxx,N/A,NAVARRETE,199062,7,35,TeacherSession35,17,TeacherSession17,2,TeacherSession2,43,TeacherSession43
+VISHRUTH,Mxxxxx,N/A,JOHNSON,159825,7,8,TeacherSession8,12,TeacherSession12,41,TeacherSession41,10,TeacherSession10
+SIONE,Txxx,N/A,NAVARRETE,180095,7,8,TeacherSession8,11,TeacherSession11,13,TeacherSession13,5,TeacherSession5
+LIAM,Txxxxx,N/A,NAVARRETE,142016,7,38,TeacherSession38,40,TeacherSession40,42,TeacherSession42,43,TeacherSession43
+NAOMI,Wxxxxxx,N/A,NAVARRETE,141010,7,28,TeacherSession28,13,TeacherSession13,6,TeacherSession6,22,TeacherSession22
+TOMMY,Wxxxxxx,N/A,OLSON,119683,7,15,TeacherSession15,5,TeacherSession5,4,TeacherSession4,13,TeacherSession13
+HENRIQUE,sxxxxx,N/A,ATKINSON,183773,7,18,TeacherSession18,41,TeacherSession41,3,TeacherSession3,6,TeacherSession6
+SAMANTHA,Jxxxx,N/A,HACKER,111391,7,42,TeacherSession42,43,TeacherSession43,37,TeacherSession37,18,TeacherSession18
+MIA,Pxxxxxx,N/A,SMITH,196805,7,42,TeacherSession42,43,TeacherSession43,13,TeacherSession13,37,TeacherSession37
+MAX,Mxxxx,N/A,HACKER,161338,7,6,TeacherSession6,9,TeacherSession9,7,TeacherSession7,13,TeacherSession13
+ABIGAIL,Wxxx,N/A,NAVARRETE,135595,7,40,TeacherSession40,29,TeacherSession29,38,TeacherSession38,21,TeacherSession21
+LORENA,Jxxxx xxxxxxx,N/A,HACKER,120271,7,11,TeacherSession11,16,TeacherSession16,17,TeacherSession17,22,TeacherSession22
+VICTORIA,Sxxxx,N/A,OLSON,125744,7,4,TeacherSession4,7,TeacherSession7,14,TeacherSession14,2,TeacherSession2
+ANGELINA,Lx,N/A,HACKER,100894,7,11,TeacherSession11,16,TeacherSession16,17,TeacherSession17,22,TeacherSession22
+VICTORIA,Gxxxxx,N/A,WALLING,179307,7,5,TeacherSession5,14,TeacherSession14,4,TeacherSession4,3,TeacherSession3
+RYAN,Wxxxx,N/A,OLSON,130921,7,3,TeacherSession3,4,TeacherSession4,5,TeacherSession5,2,TeacherSession2
+DYLAN,Lxxxx,N/A,HACKER,165272,7,8,TeacherSession8,11,TeacherSession11,40,TeacherSession40,7,TeacherSession7
+JOY,Lxx,N/A,HACKER,182201,7,18,TeacherSession18,28,TeacherSession28,33,TeacherSession33,37,TeacherSession37
+MONA,Gxxxxx,N/A,WALLING,162826,7,6,TeacherSession6,7,TeacherSession7,9,TeacherSession9,11,TeacherSession11
+KORELAI,Oxxxx,N/A,JOHNSON,113727,7,29,TeacherSession29,3,TeacherSession3,16,TeacherSession16,2,TeacherSession2
+GENEVIEVE,Nxxxx,N/A,JOHNSON,175089,7,40,TeacherSession40,15,TeacherSession15,42,TeacherSession42,2,TeacherSession2
+LYLA,Sxxxxx,N/A,OLSON,171490,7,42,TeacherSession42,9,TeacherSession9,23,TeacherSession23,18,TeacherSession18
+IAN,Wxxxxxxx,N/A,NAVARRETE,110345,7,41,TeacherSession41,4,TeacherSession4,42,TeacherSession42,29,TeacherSession29
+JEBRAAN,Jxxxxxx,N/A,HACKER,102062,7,42,TeacherSession42,29,TeacherSession29,21,TeacherSession21,6,TeacherSession6
+BROOKLYN,Kxxxxx,N/A,HACKER,144922,7,34,TeacherSession34,15,TeacherSession15,33,TeacherSession33,2,TeacherSession2
+AARON,Wxxxx,N/A,OLSON,175624,7,4,TeacherSession4,3,TeacherSession3,6,TeacherSession6,2,TeacherSession2
+NATAN,Vxx,N/A,OLSON,112365,7,15,TeacherSession15,17,TeacherSession17,20,TeacherSession20,21,TeacherSession21
+SOFIA,fxxxxxx,N/A,WALLING,124443,7,18,TeacherSession18,35,TeacherSession35,28,TeacherSession28,37,TeacherSession37
+LOGAN,Gxxxxx,N/A,WALLING,105426,7,21,TeacherSession21,6,TeacherSession6,13,TeacherSession13,34,TeacherSession34
+JOSHUA,Cxxxxxx,N/A,ESTEVEZ,171050,7,6,TeacherSession6,4,TeacherSession4,3,TeacherSession3,2,TeacherSession2
+PEDRO,Hxxxxxxxx,N/A,WALLING,104996,7,8,TeacherSession8,14,TeacherSession14,39,TeacherSession39,15,TeacherSession15
+HARPER,Rxxxxxxxxx,N/A,JOHNSON,136829,7,35,TeacherSession35,18,TeacherSession18,17,TeacherSession17,2,TeacherSession2
+CAROLINE,Cxxxxxx,N/A,ESTEVEZ,174745,7,22,TeacherSession22,17,TeacherSession17,4,TeacherSession4,5,TeacherSession5
+KUSH,Vxxxxxxx,N/A,OLSON,152918,7,32,TeacherSession32,16,TeacherSession16,29,TeacherSession29,7,TeacherSession7
+TRIPP,Txxxxxxxx,N/A,OLSON,104355,7,13,TeacherSession13,5,TeacherSession5,9,TeacherSession9,8,TeacherSession8
+ZAYD,Zxxxxx,N/A,OLSON,160269,7,41,TeacherSession41,4,TeacherSession4,12,TeacherSession12,13,TeacherSession13
+DYLAN,Vxxxx,N/A,NAVARRETE,156058,7,9,TeacherSession9,18,TeacherSession18,39,TeacherSession39,37,TeacherSession37
+MIA,Oxxxxxxxx,N/A,SMITH,104503,7,28,TeacherSession28,42,TeacherSession42,21,TeacherSession21,2,TeacherSession2
+JORDAN,Jxxxx,N/A,HACKER,198766,7,17,TeacherSession17,43,TeacherSession43,4,TeacherSession4,15,TeacherSession15
+WILLOW,Wxxxxxx,N/A,OLSON,153068,7,36,TeacherSession36,4,TeacherSession4,6,TeacherSession6,12,TeacherSession12
+JACOB,Sxx,N/A,OLSON,194072,7,16,TeacherSession16,18,TeacherSession18,31,TeacherSession31,14,TeacherSession14
+MARK,Sxxxxxxxxxx,N/A,ATKINSON,156805,7,22,TeacherSession22,7,TeacherSession7,4,TeacherSession4,13,TeacherSession13
+PRATEIK,Axxxx,N/A,AUNE,160002,7,15,TeacherSession15,11,TeacherSession11,5,TeacherSession5,8,TeacherSession8
+FELICITY,Mxxxx,N/A,HACKER,169810,7,42,TeacherSession42,14,TeacherSession14,15,TeacherSession15,43,TeacherSession43
+CILLIAN,Dxxxx,N/A,WALLING,190549,7,31,TeacherSession31,38,TeacherSession38,21,TeacherSession21,13,TeacherSession13
+LILIANA,Rxxx,N/A,ATKINSON,112524,7,23,TeacherSession23,17,TeacherSession17,21,TeacherSession21,12,TeacherSession12
+SKYLA,Sxxxx,N/A,ATKINSON,134077,7,35,TeacherSession35,30,TeacherSession30,38,TeacherSession38,37,TeacherSession37
+EMMA,sxxxxxx,N/A,ATKINSON,114713,7,22,TeacherSession22,29,TeacherSession29,24,TeacherSession24,4,TeacherSession4
+CALEB,Sxxxxxx,N/A,ATKINSON,104558,7,22,TeacherSession22,21,TeacherSession21,23,TeacherSession23,43,TeacherSession43
+EVERETT,Fxxxxx,N/A,AUNE,112493,7,15,TeacherSession15,12,TeacherSession12,5,TeacherSession5,6,TeacherSession6
+QIAO,Qxx,N/A,JOHNSON,116221,7,23,TeacherSession23,28,TeacherSession28,17,TeacherSession17,37,TeacherSession37
+MERISSA,Sxxxxx,N/A,ATKINSON,156949,7,17,TeacherSession17,4,TeacherSession4,9,TeacherSession9,20,TeacherSession20
+GAGE,Mxxxxx,N/A,HACKER,131012,7,17,TeacherSession17,26,TeacherSession26,43,TeacherSession43,37,TeacherSession37
+COLTON,Fxxxxxx,N/A,WALLING,190823,7,17,TeacherSession17,42,TeacherSession42,43,TeacherSession43,13,TeacherSession13
+ADDISON,Dxxxx,N/A,AUNE,144102,7,8,TeacherSession8,11,TeacherSession11,21,TeacherSession21,6,TeacherSession6
+IVANKA,Exxxxxxxxxxx,N/A,WALLING,161248,7,34,TeacherSession34,28,TeacherSession28,43,TeacherSession43,37,TeacherSession37
+ASHTON,bxxx,N/A,AUNE,183203,7,22,TeacherSession22,42,TeacherSession42,43,TeacherSession43,3,TeacherSession3
+AVA,Lxxxxx xxxx,N/A,HACKER,132872,7,8,TeacherSession8,16,TeacherSession16,17,TeacherSession17,28,TeacherSession28
+COOPER,Exxxxxx,N/A,WALLING,184477,7,24,TeacherSession24,25,TeacherSession25,43,TeacherSession43,36,TeacherSession36
+JOHN,Txxxxxxx,N/A,OLSON,128615,7,21,TeacherSession21,23,TeacherSession23,40,TeacherSession40,38,TeacherSession38
+ARIA,Wxxxx,N/A,NAVARRETE,127945,7,40,TeacherSession40,27,TeacherSession27,12,TeacherSession12,5,TeacherSession5
+KENSINGTON,Sxxxxxxxxx,N/A,ATKINSON,172080,7,18,TeacherSession18,42,TeacherSession42,43,TeacherSession43,34,TeacherSession34
+RUOQI,Hxxxx,N/A,HACKER,106350,7,18,TeacherSession18,27,TeacherSession27,43,TeacherSession43,16,TeacherSession16
+LIAM,Sxxx,N/A,ATKINSON,109277,7,9,TeacherSession9,7,TeacherSession7,26,TeacherSession26,5,TeacherSession5
+NOAH,Mxxxxx,N/A,NAVARRETE,110421,7,33,TeacherSession33,8,TeacherSession8,12,TeacherSession12,39,TeacherSession39
+JACKSON,Dxxxxx,N/A,AUNE,129214,7,38,TeacherSession38,40,TeacherSession40,41,TeacherSession41,3,TeacherSession3
+KYLEE,Sxxxxx,N/A,ATKINSON,180682,7,22,TeacherSession22,4,TeacherSession4,20,TeacherSession20,29,TeacherSession29
+ELI,Rxxx,N/A,ATKINSON,189066,7,15,TeacherSession15,14,TeacherSession14,26,TeacherSession26,27,TeacherSession27
+SHAYNE,Sxxxxxx,N/A,ATKINSON,198503,7,38,TeacherSession38,40,TeacherSession40,26,TeacherSession26,27,TeacherSession27
+BENJAMIN,Bxxxxx,N/A,ESTEVEZ,147832,7,39,TeacherSession39,38,TeacherSession38,18,TeacherSession18,43,TeacherSession43
+CHARLOTTE,Gxxxxx,N/A,WALLING,131661,7,26,TeacherSession26,11,TeacherSession11,8,TeacherSession8,43,TeacherSession43
+NATHAN,Pxxxxxxx,N/A,SMITH,106119,7,7,TeacherSession7,4,TeacherSession4,3,TeacherSession3,12,TeacherSession12
+GABRIELLE,Dxxx,N/A,WALLING,170922,7,9,TeacherSession9,14,TeacherSession14,6,TeacherSession6,43,TeacherSession43
+WALKER,Sxxxxxx,N/A,ATKINSON,189985,7,14,TeacherSession14,4,TeacherSession4,12,TeacherSession12,34,TeacherSession34
+AUSTIN,Pxxxxxx,N/A,KIMBERLY,159438,7,3,TeacherSession3,42,TeacherSession42,41,TeacherSession41,43,TeacherSession43
+KEVIN,Rxxxxxxxx,N/A,SMITH,189864,7,23,TeacherSession23,17,TeacherSession17,3,TeacherSession3,5,TeacherSession5
+CHAUNCEY,sxxxxxxxx,N/A,ATKINSON,111861,7,31,TeacherSession31,42,TeacherSession42,18,TeacherSession18,43,TeacherSession43
+REED,Sxxxxxx,N/A,ATKINSON,177767,7,23,TeacherSession23,32,TeacherSession32,17,TeacherSession17,7,TeacherSession7
+BRAYDEN,Hxxx,N/A,WALLING,173822,7,38,TeacherSession38,21,TeacherSession21,40,TeacherSession40,41,TeacherSession41
+RYLEIGH,Bxxxxxxxx,N/A,AUNE,195886,7,15,TeacherSession15,33,TeacherSession33,31,TeacherSession31,42,TeacherSession42
+KADEN,Mxxxxx,N/A,SMITH,160302,7,6,TeacherSession6,3,TeacherSession3,17,TeacherSession17,5,TeacherSession5
+MILEY,Yxxxxx,N/A,NAVARRETE,178552,7,26,TeacherSession26,42,TeacherSession42,30,TeacherSession30,35,TeacherSession35
+GRACE,Gxxxxxx,N/A,AUNE,153434,7,35,TeacherSession35,29,TeacherSession29,23,TeacherSession23,21,TeacherSession21
+SOPHIA,Gxxxxxxxx,N/A,AUNE,149535,7,35,TeacherSession35,29,TeacherSession29,23,TeacherSession23,21,TeacherSession21
+JACK,Hxxxxxxx,N/A,WALLING,146918,7,38,TeacherSession38,21,TeacherSession21,40,TeacherSession40,41,TeacherSession41
+EASTON,Sxxxxxx,N/A,ATKINSON,195436,7,23,TeacherSession23,38,TeacherSession38,20,TeacherSession20,8,TeacherSession8
+JAMES,Rxxxx,N/A,SMITH,152727,7,5,TeacherSession5,6,TeacherSession6,4,TeacherSession4,3,TeacherSession3
+CARSON,Rxxxxxxxxx,N/A,ATKINSON,144108,7,21,TeacherSession21,23,TeacherSession23,24,TeacherSession24,39,TeacherSession39
+MIA,Rxxxxx,N/A,SMITH,171321,7,28,TeacherSession28,4,TeacherSession4,41,TeacherSession41,30,TeacherSession30
+BRYNLIE,Gxxxxxx,N/A,WALLING,163348,7,15,TeacherSession15,42,TeacherSession42,14,TeacherSession14,16,TeacherSession16
+JULIA,Bxxx,N/A,AUNE,199053,7,34,TeacherSession34,28,TeacherSession28,35,TeacherSession35,40,TeacherSession40
