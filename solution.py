@@ -1,10 +1,10 @@
 import pandas
 import csv
 
-students_file = pandas.read_csv("students.csv")
-sessions_file = pandas.read_csv("sessions.csv")
-max_students = 20
-min_students = 5
+students_file = pandas.read_csv("students copy.csv")
+sessions_file = pandas.read_csv("sessions copy.csv")
+max_students = 25
+min_students = 15
 
 students = {}
 timestamp_delta = max(list(students_file["TIMESTAMP"])) - min(list(students_file["TIMESTAMP"]))
@@ -16,6 +16,7 @@ for a in range(len(students_file)):
         "LAST_NAME": students_file[" LAST_NAME"][a].strip(),
         "HOMEROOM": students_file[" HOMEROOM"][a].strip(),
         "FIRST_PERIOD": students_file[" FIRST_PERIOD"][a].strip(),
+        "ID": students_file[" ID"][a],
         "GRADE": students_file[" GRADE"][a],
         "CHOICE_1": [students_file[" CHOICE_1"][a], False],
         "CHOICE_2": [students_file[" CHOICE_2"][a], False],
@@ -33,7 +34,7 @@ for a in range(len(students_file)):
         "TRIED": 0
     }
 
-sorted_students = dict(sorted(students.items(), key=lambda item: item[1]['PRIORITY']))
+sorted_students = dict(sorted(students.items(), key=lambda item: item[1]["PRIORITY"], reverse=True))
 ids = list(sorted_students.keys())
 
 sessions = {}
@@ -56,12 +57,18 @@ for c in range(1, 5):
     for d in range(len(sorted_students)):
         student = ids[d]
         for e in range(1, 8):
-            if sessions[sorted_students[student]["CHOICE_" + str(e)][0]]["STUDENTS"] < max_students and sorted_students[student]["CHOICE_" + str(e)][1] == False:
-                sessions[sorted_students[student]["CHOICE_" + str(e)][0]]["STUDENTS"] += 1
-                sorted_students[student]["CHOICE_" + str(e)][1] = True
-                sorted_students[student]["PERIOD_" + str(c)] = sorted_students[student]["CHOICE_" + str(e)][0]
-                sorted_students[student]["PRIORITY"] -= 0.5
-                good += 1
+            try:
+                if sessions[sorted_students[student]["CHOICE_" + str(e)][0]]["STUDENTS"] < max_students and sorted_students[student]["CHOICE_" + str(e)][1] == False:
+                    sessions[sorted_students[student]["CHOICE_" + str(e)][0]]["STUDENTS"] += 1
+                    sorted_students[student]["CHOICE_" + str(e)][1] = True
+                    sorted_students[student]["PERIOD_" + str(c)] = sorted_students[student]["CHOICE_" + str(e)][0]
+                    sorted_students[student]["PRIORITY"] -= 0.5
+                    good += 1
+                    break
+            except:
+                sorted_students[student]["PERIOD_" + str(c)] = session_ids[0]
+                sessions[session_ids[0]]["STUDENTS"] += 1
+                bad += 1
                 break
         if sorted_students[student]["PERIOD_" + str(c)] == 0:
             for f in range(len(sessions)):
@@ -71,7 +78,7 @@ for c in range(1, 5):
                     medium += 1
                     break
             sorted_students[student]["PRIORITY"] += 0.5
-        sorted_students = dict(sorted(students.items(), key=lambda item: item[1]["PRIORITY"]))
+        sorted_students = dict(sorted(students.items(), key=lambda item: item[1]["PRIORITY"], reverse=True))
         sessions = dict(sorted(sessions.items(), key=lambda x: x[1]["STUDENTS"]))
         session_ids = list(sessions.keys())
         session_values = list(sessions.values())
@@ -82,7 +89,7 @@ for c in range(1, 5):
         sessions[session_ids[g]]["STUDENTS"] = 0
 print("Bad: ", bad, "Medium: ", medium, "Good: ", good, "Total: ", len(sorted_students))
 
-
+print(sorted_students)
 ids = list(sorted_students.keys())
 f = open("output.csv", "w", newline="")
 writer = csv.writer(f)
@@ -96,14 +103,15 @@ for e in range(len(sorted_students)):
                         sorted_students[student]["LAST_NAME"], 
                         sorted_students[student]["HOMEROOM"], 
                         sorted_students[student]["FIRST_PERIOD"], 
+                        sorted_students[student]["ID"],
                         sorted_students[student]["GRADE"], 
-                        sorted_students[student]["PERIOD_1"], 
+                        int(sorted_students[student]["PERIOD_1"]), 
                         sessions[sorted_students[student]["PERIOD_1"]]["TEACHER"], 
-                        sorted_students[student]["PERIOD_2"], 
+                        int(sorted_students[student]["PERIOD_2"]), 
                         sessions[sorted_students[student]["PERIOD_2"]]["TEACHER"], 
-                        sorted_students[student]["PERIOD_3"], 
+                        int(sorted_students[student]["PERIOD_3"]), 
                         sessions[sorted_students[student]["PERIOD_3"]]["TEACHER"], 
-                        sorted_students[student]["PERIOD_4"], 
+                        int(sorted_students[student]["PERIOD_4"]), 
                         sessions[sorted_students[student]["PERIOD_4"]]["TEACHER"]])
     except:
         print("BAD")
