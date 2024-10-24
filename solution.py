@@ -58,7 +58,7 @@ for c in range(1, 5):
         student = ids[d]
         for e in range(1, 8):
             try:
-                if sessions[sorted_students[student]["CHOICE_" + str(e)][0]]["STUDENTS"] < max_students and sorted_students[student]["CHOICE_" + str(e)][1] == False:
+                if sessions[sorted_students[student]["CHOICE_" + str(e)][0]]["STUDENTS"] < max_students and sorted_students[student]["CHOICE_" + str(e)][1] == False and not (sorted_students[student]["GRADE"] <= 8 and (sorted_students[student]["CHOICE_" + str(e)][0] == 44 or sorted_students[student]["CHOICE_" + str(e)][0] == 45 or sorted_students[student]["CHOICE_" + str(e)][0] == 46)):
                     sessions[sorted_students[student]["CHOICE_" + str(e)][0]]["STUDENTS"] += 1
                     sorted_students[student]["CHOICE_" + str(e)][1] = True
                     sorted_students[student]["PERIOD_" + str(c)] = sorted_students[student]["CHOICE_" + str(e)][0]
@@ -66,13 +66,19 @@ for c in range(1, 5):
                     good += 1
                     break
             except:
-                sorted_students[student]["PERIOD_" + str(c)] = session_ids[0]
-                sessions[session_ids[0]]["STUDENTS"] += 1
+                skip = 0
+                while (session_ids[skip] == 44 or session_ids[skip] == 45 or session_ids[skip] == 46) and sorted_students[student]["GRADE"] <= 8:
+                    skip += 1
+                    print(skip)
+                    sorted_students[student]["PERIOD_" + str(c)] = session_ids[skip]
+                sessions[session_ids[skip]]["STUDENTS"] += 1
                 bad += 1
                 break
         if sorted_students[student]["PERIOD_" + str(c)] == 0:
             for f in range(len(sessions)):
-                if sessions[session_ids[f]]["STUDENTS"] < max_students:
+                if (session_ids[f] == 44 or session_ids[f] == 45 or session_ids[f] == 46) and sorted_students[student]["GRADE"] <= 8:
+                    continue
+                elif sessions[session_ids[f]]["STUDENTS"] < max_students:
                     sorted_students[student]["PERIOD_" + str(c)] = f + 1
                     sessions[session_ids[f]]["STUDENTS"] += 1
                     medium += 1
@@ -84,8 +90,9 @@ for c in range(1, 5):
         session_values = list(sessions.values())
     for g in range(len(sessions)):
         if sessions[session_ids[g]]["STUDENTS"] < min_students:
-            print("Session " + str(g + 1) + " does not have enough students.")
-            print("Students: ", sessions[session_ids[g]]["STUDENTS"])
+            # print("Session " + str(g + 1) + " does not have enough students.")
+            # print("Students: ", sessions[session_ids[g]]["STUDENTS"])
+            pass
         sessions[session_ids[g]]["STUDENTS"] = 0
 print("Bad: ", bad, "Medium: ", medium, "Good: ", good, "Total: ", len(sorted_students))
 
